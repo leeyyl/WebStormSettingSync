@@ -1,2 +1,0 @@
-# WebStormSettingSync
-WebStorm Settings
