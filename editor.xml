@@ -6,4 +6,7 @@
     <option name="FONT_SIZE" value="16" />
     <option name="FONT_FAMILY" value="Operator Mono" />
   </component>
+  <component name="EditorSettings">
+    <option name="STRIP_TRAILING_SPACES" value="Whole" />
+  </component>
 </application>
