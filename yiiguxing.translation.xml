@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="日志打点" />
       <item value="内网" />
       <item value="关卡" />
       <item value="dungeon" />
