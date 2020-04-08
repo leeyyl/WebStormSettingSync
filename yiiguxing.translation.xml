@@ -1,10 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="关卡" />
       <item value="分类汇总" />
       <item value="日志打点" />
       <item value="内网" />
-      <item value="关卡" />
       <item value="dungeon" />
       <item value="兵种" />
       <item value="组装数据" />
