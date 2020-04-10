@@ -26,18 +26,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/.prettierrc" timestamp="1586492376334">
-        <mark key="[" line="0" column="3" />
+      <file name="$USER_HOME$/Desktop/bff/.prettierrc" timestamp="1586502454633">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/login.js" timestamp="1586429470698">
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="59" column="22" />
-        <mark key="." line="59" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1586426148835">
-        <mark key="[" line="88" column="32" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/login.js" timestamp="1586502114147">
+        <mark key="[" line="6" column="18" />
       </file>
       <file name="/fragment.js" timestamp="1586415580091">
         <mark key="[" line="0" column="0" />
@@ -47,19 +42,10 @@
         <mark key="]" line="27" column="7" />
         <mark key="." line="27" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1586427128013">
-        <mark key="[" line="69" column="64" />
-        <mark key="]" line="69" column="64" />
-        <mark key="." line="69" column="64" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/register-temp.js" timestamp="1586429804986">
-        <mark key="[" line="48" column="36" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/subtotals.js" timestamp="1586426106446">
-        <mark key="[" line="150" column="42" />
-        <mark key="]" line="150" column="42" />
-        <mark key="." line="150" column="42" />
-        <mark key="^" line="108" column="20" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/register.js" timestamp="1586502038536">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/.eslintrc.js" timestamp="1586500622970">
         <mark key="[" line="13" column="32" />
@@ -71,11 +57,6 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/props.js" timestamp="1586401187368">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1586427766350">
         <mark key="[" line="153" column="25" />
         <mark key="]" line="153" column="83" />
@@ -86,28 +67,36 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="/JavaScript Console" timestamp="1586426728019">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/.editorconfig" timestamp="1586496200823">
+        <mark key="[" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/permission.js" timestamp="1586502745778">
+        <mark key="[" line="17" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1586427128013">
+        <mark key="[" line="69" column="64" />
+        <mark key="]" line="69" column="64" />
+        <mark key="." line="69" column="64" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/register-temp.js" timestamp="1586429804986">
+        <mark key="[" line="48" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/package.json" timestamp="1586502616374">
+        <mark key="[" line="9" column="101" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1586428636624">
         <mark key="[" line="27" column="20" />
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="/JavaScript Console" timestamp="1586426728019">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/level.js" timestamp="1586422604331">
         <mark key="[" line="60" column="29" />
         <mark key="]" line="60" column="29" />
         <mark key="." line="60" column="29" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/.editorconfig" timestamp="1586496200823">
-        <mark key="[" line="5" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/statistics-currency.js" timestamp="1586337462627">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -132,7 +121,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICdwcmV0dGllci9wcmV0dGllcic6ICdlcnJvcicK</text>
+        <text encoding="base64">ICAiZXNsaW50SW50ZWdyYXRpb24iOiB0cnVlLAo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -141,31 +130,31 @@
         <text encoding="base64">ICAgIGNvbnN0IGNvbmRpdGlvbiA9IHt9Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICdwcmV0dGllci9wcmV0dGllcic6ICdlcnJvcicK</text>
+        <text encoding="base64">ICAiZXNsaW50SW50ZWdyYXRpb24iOiB0cnVlLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbW1vbmpzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgaXA6IEpTT04ucGFyc2UodGhpcy5vcGVyYXRvcl9kYXRhKS5pcCwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJyb3dzZXI6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICdwcmV0dGllci9wcmV0dGllcic6ICdlcnJvcicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBlbnY6IHsKICAgIGplc3Q6IHRydWUsCiAgICBlczY6IHRydWUsCiAgICBicm93c2VyOiB0cnVlLAogICAgbm9kZTogdHJ1ZSwKICAgIGNvbW1vbmpzOiB0cnVlCiAgfQo=</text>
+        <text encoding="base64">ICAgIGNvbW1vbmpzOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYXJzZXJPcHRpb25zOiB7IHBhcnNlcjogJ2JhYmVsLWVzbGludCcgfQo=</text>
+        <text encoding="base64">ICAgIGJyb3dzZXI6IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBwYXJzZXJPcHRpb25zOiB7IHBhcnNlcjogJ2JhYmVsLWVzbGludCcgfSwK</text>
+        <text encoding="base64">ICBlbnY6IHsKICAgIGplc3Q6IHRydWUsCiAgICBlczY6IHRydWUsCiAgICBicm93c2VyOiB0cnVlLAogICAgbm9kZTogdHJ1ZSwKICAgIGNvbW1vbmpzOiB0cnVlCiAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICBwYXJzZXJPcHRpb25zOiB7IHBhcnNlcjogJ2JhYmVsLWVzbGludCcgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgcGxheWVyTmFtZTogdGhpcy5wbGF5ZXJfbmFtZSwK</text>
+        <text encoding="base64">ICBwYXJzZXJPcHRpb25zOiB7IHBhcnNlcjogJ2JhYmVsLWVzbGludCcgfSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgb3BlcmF0b3I6IHRoaXMub3BlcmF0b3IsCiAgICAgIGlwOiBKU09OLnBhcnNlKHRoaXMub3BlcmF0b3JfZGF0YSkuaXAsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
