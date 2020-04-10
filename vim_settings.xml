@@ -63,6 +63,11 @@
         <mark key="." line="150" column="42" />
         <mark key="^" line="108" column="20" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/.eslintrc.js" timestamp="1586491847534">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="1" column="64" />
+        <mark key="." line="1" column="64" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1586428705071">
         <mark key="[" line="81" column="56" />
         <mark key="]" line="81" column="0" />
@@ -91,9 +96,6 @@
         <mark key="]" line="7" column="7" />
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/currency.js" timestamp="1586255784565">
-        <mark key="[" line="60" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/guild.js" timestamp="1586332313022">
         <mark key="[" line="13" column="15" />
@@ -142,11 +144,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgcGxheWVyTmFtZTogdGhpcy5wbGF5ZXJfbmFtZSwK</text>
+      <register name="*" type="4">
+        <text>]</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>]</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGNvbmRpdGlvbiA9IHt9Owo=</text>
