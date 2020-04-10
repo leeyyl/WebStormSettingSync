@@ -73,7 +73,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/register-official.js" timestamp="1586489578599" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/register-official.js" timestamp="1586490329618">
+        <mark key="[" line="4" column="8" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1586427766350">
         <mark key="[" line="153" column="25" />
         <mark key="]" line="153" column="83" />
@@ -184,7 +186,7 @@
   <component name="VimSearchSettings">
     <search>
       <last-dir>0</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
