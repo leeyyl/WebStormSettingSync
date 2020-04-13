@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="创角" />
+      <item value="创角留存" />
+      <item value="留存率" />
+      <item value="留存" />
       <item value="数据报表" />
       <item value="库存" />
       <item value="关卡" />
