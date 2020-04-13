@@ -39,7 +39,7 @@
         <mark key="]" line="10" column="14" />
         <mark key="." line="10" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1586748267507">
+      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1586766615727">
         <mark key="[" line="92" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/statistics-level.js" timestamp="1586515627665">
@@ -68,9 +68,9 @@
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1586748355421">
         <mark key="[" line="118" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1586749003683">
-        <mark key="[" line="153" column="25" />
-        <mark key="]" line="153" column="83" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1586767085911">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="39" column="8" />
         <mark key="." line="153" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1586748406845">
@@ -78,8 +78,8 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/report.js" timestamp="1586765916606">
-        <mark key="[" line="34" column="52" />
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/report.js" timestamp="1586766126992">
+        <mark key="[" line="60" column="52" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -96,19 +96,19 @@
       <file name="/JavaScript Console" timestamp="1586507770175">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1586764929620">
-        <mark key="[" line="55" column="3" />
-        <mark key="]" line="55" column="4" />
-        <mark key="." line="55" column="4" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1586768849536">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/statistics-copy.js" timestamp="1586511811581">
         <mark key="[" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/report.js" timestamp="1586763511943">
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="59" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/report.js" timestamp="1586768636288">
+        <mark key="[" line="62" column="14" />
+        <mark key="]" line="40" column="6" />
+        <mark key="^" line="35" column="91" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/permission.js" timestamp="1586502745778">
         <mark key="[" line="17" column="35" />
@@ -136,27 +136,39 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChjb25zdCBpdGVtIG9mIHJlc3VsdCkgewogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVuZCA9IAo=</text>
       </register>
       <register name="-" type="4">
         <text>Math.floor(this.player_id / Math.pow(2, 48))</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgY29uZGl0aW9uIH0gPSB0aGlzLmNvbmRpdGlvbih2KQo=</text>
+        <text encoding="base64">ICAgIHYuZ2V0KCdxdWVyeS5zdGFydCcpICYmIHYuZ2V0KCdxdWVyeS5lbmQnKSAmJiBzZXQoY29uZGl0aW9uLCAnY3JlYXRlX3RpbWUnLCB7CiAgICAgICAgW09wLmJldHdlZW5dOiBbdi5nZXQoJ3F1ZXJ5LnN0YXJ0JyksIHYuZ2V0KCdxdWVyeS5lbmQnKV0KICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChjb25zdCBpdGVtIG9mIHJlc3VsdCkgewogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGVuZCA9IAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmRheSA9IGRheQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXJ0ID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLnNlcnZlciA9IE1hdGguZmxvb3IoaXRlbS5wbGF5ZXJfaWQgLyBNYXRoLnBvdygyLCA0OCkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVnaXN0ZXJNb2RlbCB9IGZyb20gJy4uLy4uL21vZGVscy9yZWdpc3RlcicK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lzdGVycyA9IGF3YWl0IHJlcG9ydC5kYWlseVJlZ2lzdGVyKGN0eCwgb3BlcmF0b3IpCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZm9yIChjb25zdCBpdGVtIG9mIHJlc3VsdCkgewogICAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtLmRheSA9IGRheQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBpdGVtLnNlcnZlciA9IE1hdGguZmxvb3IoaXRlbS5wbGF5ZXJfaWQgLyBNYXRoLnBvdygyLCA0OCkpCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgc2VydmVyOiBNYXRoLmZsb29yKHRoaXMucGxheWVyX2lkIC8gTWF0aC5wb3coMiwgNDgpKSwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text>const start = ctx.query.start
     const end = ctx.query.end
     let day = moment(start)
@@ -173,18 +185,6 @@
       day = day.add(1, 'days')
     }
     ctx.json(result)</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">YXN5bmMgZnVuY3Rpb24gcmF0ZVJlZ2lzdGVyKHJlc3VsdCkgewogIGNvbnN0IHRvdGFsID0gYXdhaXQgUmVnaXN0ZXJNb2RlbC5jb3VudCh7CiAgICBkaXN0aW5jdDogdHJ1ZSwKICAgIGNvbDogJ3BsYXllcl9pZCcsCiAgICB3aGVyZTogewogICAgICBvcGVyYXRvcjogMgogICAgfQogIH0pCiAgZm9yIChjb25zdCBpdGVtIG9mIHJlc3VsdCkgewogICAgaXRlbS5yYXRlID0gKGl0ZW0ubnVtIC8gdG90YWwpLnRvRml4ZWQoMikKICAgIGl0ZW0udG90YWwgPSB0b3RhbAogIH0KfQoK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAxOyBpIDwgcmVzdWx0Lmxlbmd0aDsgaSsrKSB7CiAgICAgIGNvbnN0IGl0ZW0gPSByZXN1bHRbaV0KICAgICAgY29uc3QgbGFzdCA9IHJlc3VsdFtpIC0gMV0KICAgICAgaWYgKGxhc3QgJiYgbGFzdC5kYXUpIHsKICAgICAgICBpdGVtLnJhdGUgPSAoaXRlbS5kYXUgLyBsYXN0LmRhdSkudG9GaXhlZCgyKQogICAgICB9IGVsc2UgewogICAgICAgIGl0ZW0ucmF0ZSA9IDEKICAgICAgfQogICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGN0eC5xdWVyeS5jaGFubmVsICYmIHNldChjb25kaXRpb24sICdjaGFubmVsJywgY3R4LnF1ZXJ5LmNoYW5uZWwpCiAgICBjdHgucXVlcnkuc3ViX2NoYW5uZWwgJiYgc2V0KGNvbmRpdGlvbiwgJ3N1Yl9jaGFubmVsJywgY3R4LnF1ZXJ5LnN1Yl9jaGFubmVsKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbmRpdGlvbiA9IHt9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
