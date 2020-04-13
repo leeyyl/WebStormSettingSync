@@ -42,6 +42,9 @@
       <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1586766615727">
         <mark key="[" line="92" column="33" />
       </file>
+      <file name="/fragment.js" timestamp="1586774721326">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/statistics-level.js" timestamp="1586515627665">
         <mark key="[" line="5" column="12" />
         <mark key="]" line="27" column="7" />
@@ -93,25 +96,22 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1586507770175">
+      <file name="/JavaScript Console" timestamp="1586774698253">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1586769027385">
-        <mark key="[" line="118" column="44" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1586774730416">
+        <mark key="[" line="72" column="31" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/statistics-copy.js" timestamp="1586511811581">
         <mark key="[" line="11" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/report.js" timestamp="1586768636288">
-        <mark key="[" line="62" column="14" />
-        <mark key="]" line="40" column="6" />
-        <mark key="^" line="35" column="91" />
-        <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/permission.js" timestamp="1586502745778">
-        <mark key="[" line="17" column="35" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/report.js" timestamp="1586774639000">
+        <mark key="[" line="83" column="20" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="65" column="6" />
+        <mark key="." line="64" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -136,55 +136,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVuZCA9IAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbS5zdW0pCg==</text>
       </register>
       <register name="-" type="4">
-        <text>Math.floor(this.player_id / Math.pow(2, 48))</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHYuZ2V0KCdxdWVyeS5zdGFydCcpICYmIHYuZ2V0KCdxdWVyeS5lbmQnKSAmJiBzZXQoY29uZGl0aW9uLCAnY3JlYXRlX3RpbWUnLCB7CiAgICAgICAgW09wLmJldHdlZW5dOiBbdi5nZXQoJ3F1ZXJ5LnN0YXJ0JyksIHYuZ2V0KCdxdWVyeS5lbmQnKV0KICAgICAgfSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVuZCA9IAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coaXRlbS5zdW0pCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXJ0ID0gCg==</text>
+        <text encoding="base64">ICAgICAgaGF2aW5nOiB7CiAgICAgICAgW09wLmd0XTogZGF5CiAgICAgIH0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVnaXN0ZXJNb2RlbCB9IGZyb20gJy4uLy4uL21vZGVscy9yZWdpc3RlcicK</text>
+        <text encoding="base64">ICAgICAgaGF2aW5nOiB7CiAgICAgICAgW09wLmd0XTogZGF5CiAgICAgIH0sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lzdGVycyA9IGF3YWl0IHJlcG9ydC5kYWlseVJlZ2lzdGVyKGN0eCwgb3BlcmF0b3IpCg==</text>
+        <text encoding="base64">ICAgICAgaGF2aW5nOiB7CiAgICAgICAgW09wLm9yXTogWzEsIDIsIDNdCiAgICAgIH0sCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChjb25zdCBpdGVtIG9mIHJlc3VsdCkgewogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgID0gcmVjb3Jkcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLmRheSA9IGRheQo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlZ2lzdGVycyA9IGF3YWl0IHJlcG9ydC5kYWlseVJlZ2lzdGVyKGN0eCwgMSkKICAgIGxldCBkYXkgPSBtb21lbnQoY3R4LnF1ZXJ5LnN0YXJ0KQogICAgY29uc3QgcmVzdWx0ID0gW10KICAgIHdoaWxlIChkYXkuaXNTYW1lT3JCZWZvcmUobW9tZW50KGN0eC5xdWVyeS5lbmQpKSkgewogICAgICBjb25zdCByZWNvcmQgPSB7IGRheTogZGF5LCBhZGQ6IDAgfQogICAgICBmb3IgKGNvbnN0IGl0ZW0gb2YgcmVnaXN0ZXJzKSB7CiAgICAgICAgaWYgKG1vbWVudChpdGVtLmRheSkuaXNTYW1lKGRheSkpIHsKICAgICAgICAgIHJlY29yZC5hZGQgPSBpdGVtLnN1bQogICAgICAgICAgYnJlYWsKICAgICAgICB9CiAgICAgIH0KICAgICAgY29uc3QgbG9naW5zID0gYXdhaXQgcmVwb3J0LnNlcnZlckxvZ2luKGN0eCwgZGF5KQogICAgICBmb3IgKGNvbnN0IGl0ZW0gb2YgbG9naW5zKSB7CiAgICAgICAgY29uc3Qga2V5ID0gbW9tZW50KGl0ZW0uZGF5KS5kaWZmKGRheSwgJ2RheXMnKSArIDEKICAgICAgICByZWNvcmRba2V5XSA9IHJlY29yZC5hZGQgPiAwID8gKGl0ZW0uc3VtIC8gcmVjb3JkLmFkZCkudG9GaXhlZCgyKSA6IDEKICAgICAgfQogICAgICByZXN1bHQucHVzaChyZWNvcmQpCiAgICAgIGRheSA9IGRheS5hZGQoMSwgJ2RheXMnKQogICAgfQogICAgY3R4Lmpzb24ocmVzdWx0KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLnNlcnZlciA9IE1hdGguZmxvb3IoaXRlbS5wbGF5ZXJfaWQgLyBNYXRoLnBvdygyLCA0OCkpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGlubmVyID0gW10K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgc2VydmVyOiBNYXRoLmZsb29yKHRoaXMucGxheWVyX2lkIC8gTWF0aC5wb3coMiwgNDgpKSwK</text>
+        <text encoding="base64">ICAgICAgaGF2aW5nOiB7CiAgICAgICAgW09wLmd0XTogZGF5CiAgICAgIH0sCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>const start = ctx.query.start
-    const end = ctx.query.end
-    let day = moment(start)
-    const result = []
-    while (day.isSameOrBefore(moment(end))) {
-      const record = { day: day }
-      record.first = await report.firstDayNum(ctx, day, 1)
-      const logins = await report.dailyLogin(ctx, day)
-      for (const item of logins) {
-        const key = moment(item.day).diff(day, 'days') + 1
-        record[key] = (item.sum / record.first).toFixed(2)
-      }
-      result.push(record)
-      day = day.add(1, 'days')
-    }
-    ctx.json(result)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGVuZCA9IAo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
