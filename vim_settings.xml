@@ -37,10 +37,10 @@
       <file name="/a.dummy" timestamp="1586749691029">
         <mark key="[" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1586857668428">
-        <mark key="[" line="41" column="1" />
-        <mark key="]" line="38" column="48" />
-        <mark key="." line="38" column="48" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1586858284090">
+        <mark key="[" line="75" column="1" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/register.js" timestamp="1586765410431">
         <mark key="[" line="10" column="14" />
@@ -62,10 +62,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1586856983276">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1586858852549">
+        <mark key="[" line="14" column="1" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="7" column="1" />
       </file>
       <file name="/JavaScript Console" timestamp="1586774698253">
         <mark key="[" line="0" column="0" />
@@ -105,10 +106,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1586857715939">
-        <mark key="[" line="13" column="36" />
-        <mark key="]" line="312" column="0" />
-        <mark key="." line="312" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1586858239921">
+        <mark key="[" line="48" column="50" />
+        <mark key="]" line="48" column="50" />
+        <mark key="." line="48" column="50" />
+        <mark key="^" line="46" column="36" />
       </file>
     </filemarks>
     <jumps>
@@ -132,45 +134,47 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text>.get('query.group_id'), v.get('query.page'), v.get('query.count')</text>
+      <register name="*" type="2">
+        <text encoding="base64">Y2xhc3MgR2V0Q2hhbm5lbHNWYWxpZGF0b3IgZXh0ZW5kcyBMaW5WYWxpZGF0b3IgewogIGNvbnN0cnVjdG9yKCkgewogICAgc3VwZXIoKQogICAgdGhpcy5wbGF0Zm9ybV9pZCA9IG5ldyBSdWxlKCdpc0ludCcsICflubPlj7DmiJbmuKDpgZNpZOW/hemhu+aYr+ato+aVtOaVsCcpCiAgfQp9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.get('query.group_id'), v.get('query.page'), v.get('query.count')</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHYuZ2V0KCdxdWVyeS5zdGFydCcpICYmIHYuZ2V0KCdxdWVyeS5lbmQnKSAmJiBzZXQoY29uZGl0aW9uLCAnY3JlYXRlX3RpbWUnLCB7CiAgICAgICAgW09wLmJldHdlZW5dOiBbdi5nZXQoJ3F1ZXJ5LnN0YXJ0JyksIHYuZ2V0KCdxdWVyeS5lbmQnKV0KICAgICAgfSkK</text>
+        <text encoding="base64">Y2xhc3MgR2V0Q2hhbm5lbHNWYWxpZGF0b3IgZXh0ZW5kcyBMaW5WYWxpZGF0b3IgewogIGNvbnN0cnVjdG9yKCkgewogICAgc3VwZXIoKQogICAgdGhpcy5wbGF0Zm9ybV9pZCA9IG5ldyBSdWxlKCdpc0ludCcsICflubPlj7DmiJbmuKDpgZNpZOW/hemhu+aYr+ato+aVtOaVsCcpCiAgfQp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgCg==</text>
+        <text encoding="base64">Y2xhc3MgR2V0UGxhdGZvcm1zVmFsaWRhdG9yIGV4dGVuZHMgTGluVmFsaWRhdG9yIHsKICBjb25zdHJ1Y3RvcigpIHsKICAgIHN1cGVyKCkKICAgIHRoaXMubmFtZSA9IG5ldyBSdWxlKCdpc05vdEVtcHR5JywgJ+W/hemhu+S8oOWFpeW5s+WPsOaIlua4oOmBk+WQjeensCcpCiAgfQp9Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsKICBBZG1pblVzZXJzVmFsaWRhdG9yLAogIFJlc2V0UGFzc3dvcmRWYWxpZGF0b3IsCiAgVXBkYXRlVXNlckluZm9WYWxpZGF0b3IsCiAgTmV3R3JvdXBWYWxpZGF0b3IsCiAgVXBkYXRlR3JvdXBWYWxpZGF0b3IsCiAgRGlzcGF0Y2hQZXJtaXNzaW9uVmFsaWRhdG9yLAogIERpc3BhdGNoUGVybWlzc2lvbnNWYWxpZGF0b3IsCiAgUmVtb3ZlUGVybWlzc2lvbnNWYWxpZGF0b3IKfSBmcm9tICcuLi8uLi92YWxpZGF0b3JzL2FkbWluJwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaWQgPSBuZXcgUnVsZSgnaXNJbnQnLCAn5bmz5Y+w5oiW5rig6YGTaWTlv4XpobvmmK/mraPmlbTmlbAnKQogICAgdGhpcy5uYW1lID0gbmV3IFJ1bGUoJ2lzTm90RW1wdHknLCAn5b+F6aG75Lyg5YWl5bmz5Y+w5oiW5rig6YGT5ZCN56ewJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuYXV0aG9yID0gbmV3IFJ1bGUoJ2lzTm90RW1wdHknLCAn5b+F6aG75Lyg5YWl5Zu+5Lmm5L2c6ICFJykKICAgIHRoaXMuc3VtbWFyeSA9IG5ldyBSdWxlKCdpc05vdEVtcHR5JywgJ+W/hemhu+S8oOWFpeWbvuS5pue7vOi/sCcpCiAgICB0aGlzLmltYWdlID0gbmV3IFJ1bGUoJ2lzTGVuZ3RoJywgJ+WbvuS5puaPkuWbvueahHVybOmVv+W6puW/hemhu+WcqDB+MTAw5LmL6Ze0JywgewogICAgICBtaW46IDAsCiAgICAgIG1heDogMTAwCiAgICB9KQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucGxhdGZvcm1faWQgPSBuZXcgUnVsZSgnaXNJbnQnLCAn5bmz5Y+w5oiW5rig6YGTaWTlv4XpobvmmK/mraPmlbTmlbAnKQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQm9va1NlYXJjaFZhbGlkYXRvciBleHRlbmRzIExpblZhbGlkYXRvciB7CiAgY29uc3RydWN0b3IoKSB7CiAgICBzdXBlcigpCiAgICB0aGlzLnEgPSBuZXcgUnVsZSgnaXNOb3RFbXB0eScsICflv4XpobvkvKDlhaXmkJzntKLlhbPplK7lrZcnKQogIH0KfQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWRtaW5EYW8gfSBmcm9tICcuLi8uLi9kYW8vYWRtaW4nCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN1YkNoYW5uZWwuaW5mbyA9IHYuZ2V0KCdib2R5LmluZm8nKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGdyb3VwLmluZm8gPSB2LmdldCgnYm9keS5pbmZvJykK</text>
-      </register>
-      <register name="8" type="4">
+      <register name="4" type="4">
         <text>{
       where: {
         id: platformId
       }
     }</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlkID0gdi5nZXQoJ3BhdGguaWQnKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiAzCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CmFkbWluLmxpblB1dCgKICAnY2hhbmdlVXNlclBhc3N3b3JkJywKICAnL3VzZXIvOmlkL3Bhc3N3b3JkJywKICB7CiAgICBwZXJtaXNzaW9uOiAn5L+u5pS555So5oi35a+G56CBJywKICAgIG1vZHVsZTogJ+euoeeQhuWRmCcsCiAgICBtb3VudDogZmFsc2UKICB9LAogIGFkbWluUmVxdWlyZWQsCiAgYXN5bmMgKGN0eCkgPT4gewogICAgY29uc3QgdiA9IGF3YWl0IG5ldyBSZXNldFBhc3N3b3JkVmFsaWRhdG9yKCkudmFsaWRhdGUoY3R4KQogICAgYXdhaXQgYWRtaW5EYW8uY2hhbmdlVXNlclBhc3N3b3JkKGN0eCwgdikKICAgIGN0eC5zdWNjZXNzKHsKICAgICAgbXNnOiAn5a+G56CB5L+u5pS55oiQ5YqfJywKICAgICAgZXJyb3JDb2RlOiAyCiAgICB9KQogIH0KKQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>{
+      id: channelId
+    }</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdyb3VwLmluZm8gPSB2LmdldCgnYm9keS5pbmZvJykK</text>
+        <text encoding="base64">aW1wb3J0IHsgCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
