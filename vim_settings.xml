@@ -26,26 +26,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/app/models/login.js" timestamp="1586765396493">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="10" column="14" />
-        <mark key="." line="10" column="14" />
-      </file>
       <file name="/fragment.js" timestamp="1586774721326">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1586749691029">
-        <mark key="[" line="0" column="4" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/statistics-level.js" timestamp="1586918070122">
+        <mark key="'" line="63" column="2" />
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1586916223134">
         <mark key="[" line="213" column="16" />
         <mark key="]" line="199" column="0" />
         <mark key="." line="199" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/register.js" timestamp="1586765410431">
-        <mark key="[" line="10" column="14" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/subtotals.js" timestamp="1586765973520">
         <mark key="[" line="28" column="0" />
@@ -57,6 +50,13 @@
         <mark key="]" line="39" column="8" />
         <mark key="." line="153" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/statistics-props.js" timestamp="1586918065101">
+        <mark key="[" line="37" column="27" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="52" column="3" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/group.js" timestamp="1586917894473" />
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/report.js" timestamp="1586766126992">
         <mark key="[" line="60" column="52" />
         <mark key="]" line="2" column="0" />
@@ -71,6 +71,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/copy.js" timestamp="1586835256209" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/statistics-copy.js" timestamp="1586918075753">
+        <mark key="'" line="63" column="2" />
+        <mark key="[" line="48" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/report.js" timestamp="1586774639000">
         <mark key="[" line="83" column="20" />
         <mark key="]" line="64" column="0" />
@@ -80,7 +86,7 @@
       <file name="$USER_HOME$/Desktop/bff/app/models/permission.js" timestamp="1586836824561">
         <mark key="[" line="17" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1586766615727">
+      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1586918329687">
         <mark key="[" line="92" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/platform.js" timestamp="1586837165800">
@@ -89,13 +95,11 @@
         <mark key="." line="22" column="5" />
         <mark key="^" line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/channel.js" timestamp="1586839373798">
-        <mark key="[" line="78" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/daily-report.js" timestamp="1586765866945">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/channel.js" timestamp="1586918062606">
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
+        <mark key="^" line="148" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/code.md" timestamp="1586850043154">
         <mark key="[" line="36" column="11" />
@@ -129,50 +133,47 @@
       <jump line="28" column="9" filename="$USER_HOME$/Desktop/bff/app/app.js" />
       <jump line="0" column="7" filename="$USER_HOME$/Desktop/bff/app/app.js" />
       <jump line="5" column="9" filename="$USER_HOME$/Desktop/bff/app/app.js" />
+      <jump line="50" column="2" filename="$USER_HOME$/Desktop/bff/app/models/statistics-level.js" />
+      <jump line="50" column="2" filename="$USER_HOME$/Desktop/bff/app/models/statistics-copy.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJbmZvQ3J1ZE1peGluLm9wdGlvbnMK</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5ldyBSdWxlKCdpc05vdEVtcHR5JywgJ+W/hemhu+S8oOWFpeW5s+WPsOaIlua4oOmBk+WQjeensCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBJbmZvQ3J1ZE1peGluLm9wdGlvbnMK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXRmb3JtSWQgPSBjdHgucGF0aC5pZAo=</text>
+        <text encoding="base64">ICBJbmZvQ3J1ZE1peGluLm9wdGlvbnMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXRmb3JtSWQgPSB2LmdldCgncGF0aC5pZCcpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5mb0NydWRNaXhpbiB9IGZyb20gJ2xpbi1taXphcicK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA1Cg==</text>
+        <text encoding="base64">ICBJbmZvQ3J1ZE1peGluLm9wdGlvbnMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1YkNoYW5uZWwuY2hhbm5lbF9pZCA9IHYuZ2V0KCdwYXRoLmlkJykK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5mb0NydWRNaXhpbiB9IGZyb20gJ2xpbi1taXphcicK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNoYW5uZWwucGxhdGZvcm1faWQgPSB2LmdldCgncGF0aC5pZCcpCg==</text>
+        <text encoding="base64">ICBJbmZvQ3J1ZE1peGluLm9wdGlvbnMK</text>
       </register>
-      <register name="7" type="4">
-        <text>{
-      where: {
-        platform_id: v.get('path.id'),
-        name: v.get('body.name')
-      }
-    }</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSW5mb0NydWRNaXhpbiB9IGZyb20gJ2xpbi1taXphcicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwbGF0Zm9ybV9pZDogcGxhdGZvcm1JZCwK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5mb0NydWRNaXhpbiB9IGZyb20gJ2xpbi1taXphcicK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXRmb3JtID0gdi5nZXQoJ2JvZHkuJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
