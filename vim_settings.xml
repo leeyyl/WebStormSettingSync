@@ -62,10 +62,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1586861256557">
-        <mark key="[" line="29" column="1" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1586919137053">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="29" column="49" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="28" column="49" />
       </file>
       <file name="/JavaScript Console" timestamp="1586774698253">
         <mark key="[" line="0" column="0" />
@@ -109,11 +110,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1586916080777">
-        <mark key="[" line="261" column="36" />
-        <mark key="]" line="268" column="24" />
-        <mark key="." line="268" column="23" />
-        <mark key="^" line="268" column="24" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1586919228433">
+        <mark key="[" line="207" column="20" />
+        <mark key="]" line="272" column="24" />
+        <mark key="." line="272" column="23" />
+        <mark key="^" line="272" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -140,13 +141,13 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICBJbmZvQ3J1ZE1peGluLm9wdGlvbnMK</text>
+        <text encoding="base64">ICAgIHRoaXMubWluID0gbmV3IFJ1bGUoJ2lzSW50JywgJ+acgOWwj+acjeWKoeWZqGlk5b+F6aG75piv5q2j5pW05pWwJykK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5ldyBSdWxlKCdpc05vdEVtcHR5JywgJ+W/hemhu+S8oOWFpeW5s+WPsOaIlua4oOmBk+WQjeensCcpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMubWluID0gbmV3IFJ1bGUoJ2lzSW50JywgJ+acgOWwj+acjeWKoeWZqGlk5b+F6aG75piv5q2j5pW05pWwJykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBJbmZvQ3J1ZE1peGluLm9wdGlvbnMK</text>
