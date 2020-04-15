@@ -37,11 +37,10 @@
       <file name="/a.dummy" timestamp="1586749691029">
         <mark key="[" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1586861332276">
-        <mark key="[" line="141" column="1" />
-        <mark key="]" line="0" column="26" />
-        <mark key="^" line="138" column="19" />
-        <mark key="." line="0" column="26" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1586916223134">
+        <mark key="[" line="213" column="16" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/register.js" timestamp="1586765410431">
         <mark key="[" line="10" column="14" />
@@ -91,7 +90,7 @@
         <mark key="^" line="30" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/channel.js" timestamp="1586839373798">
-        <mark key="[" line="75" column="21" />
+        <mark key="[" line="78" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/daily-report.js" timestamp="1586765866945">
         <mark key="[" line="7" column="0" />
@@ -106,10 +105,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1586861765637">
-        <mark key="[" line="290" column="25" />
-        <mark key="]" line="299" column="0" />
-        <mark key="." line="299" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1586916080777">
+        <mark key="[" line="261" column="36" />
+        <mark key="]" line="268" column="24" />
+        <mark key="." line="268" column="23" />
+        <mark key="^" line="268" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -134,7 +134,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIHN1YkNoYW5uZWwuY2hhbm5lbF9pZCA9IHYuZ2V0KCdwYXRoLmlkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -143,12 +143,24 @@
         <text encoding="base64">ICAgIHRoaXMubmFtZSA9IG5ldyBSdWxlKCdpc05vdEVtcHR5JywgJ+W/hemhu+S8oOWFpeW5s+WPsOaIlua4oOmBk+WQjeensCcpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN1YkNoYW5uZWwuY2hhbm5lbF9pZCA9IHYuZ2V0KCdwYXRoLmlkJykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBsYXRmb3JtSWQgPSBjdHgucGF0aC5pZAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBsYXRmb3JtSWQgPSB2LmdldCgncGF0aC5pZCcpCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA1Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHN1YkNoYW5uZWwuY2hhbm5lbF9pZCA9IHYuZ2V0KCdwYXRoLmlkJykK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgIGNoYW5uZWwucGxhdGZvcm1faWQgPSB2LmdldCgncGF0aC5pZCcpCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>{
       where: {
         platform_id: v.get('path.id'),
@@ -156,23 +168,11 @@
       }
     }</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBwbGF0Zm9ybV9pZDogcGxhdGZvcm1JZCwK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXRmb3JtID0gdi5nZXQoJ2JvZHkuJykK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMucGxhdGZvcm1faWQgPSBuZXcgUnVsZSgnaXNJbnQnLCAn5bmz5Y+waWTlv4XpobvmmK/mraPmlbTmlbAnKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">YWRtaW4ubGluUG9zdCgKICAnZGlzcGF0Y2hQZXJtaXNzaW9ucycsCiAgJy9wZXJtaXNzaW9uL2Rpc3BhdGNoL2JhdGNoJywKICB7CiAgICBwZXJtaXNzaW9uOiAn5YiG6YWN5aSa5Liq5p2D6ZmQJywKICAgIG1vZHVsZTogJ+euoeeQhuWRmCcsCiAgICBtb3VudDogZmFsc2UKICB9LAogIGFkbWluUmVxdWlyZWQsCiAgYXN5bmMgKGN0eCkgPT4gewogICAgY29uc3QgdiA9IGF3YWl0IG5ldyBEaXNwYXRjaFBlcm1pc3Npb25zVmFsaWRhdG9yKCkudmFsaWRhdGUoY3R4KQogICAgYXdhaXQgYWRtaW5EYW8uZGlzcGF0Y2hQZXJtaXNzaW9ucyhjdHgsIHYpCiAgICBjdHguc3VjY2Vzcyh7CiAgICAgIG1zZzogJ+a3u+WKoOadg+mZkOaIkOWKnycsCiAgICAgIGVycm9yQ29kZTogNwogICAgfSkKICB9CikKCmFkbWluLmxpblBvc3QoCiAgJ3JlbW92ZVBlcm1pc3Npb25zJywKICAnL3Blcm1pc3Npb24vcmVtb3ZlJywKICB7CiAgICBwZXJtaXNzaW9uOiAn5Yig6Zmk5aSa5Liq5p2D6ZmQJywKICAgIG1vZHVsZTogJ+euoeeQhuWRmCcsCiAgICBtb3VudDogZmFsc2UKICB9LAogIGFkbWluUmVxdWlyZWQsCiAgYXN5bmMgKGN0eCkgPT4gewogICAgY29uc3QgdiA9IGF3YWl0IG5ldyBSZW1vdmVQZXJtaXNzaW9uc1ZhbGlkYXRvcigpLnZhbGlkYXRlKGN0eCkKICAgIGF3YWl0IGFkbWluRGFvLnJlbW92ZVBlcm1pc3Npb25zKGN0eCwgdikKICAgIGN0eC5zdWNjZXNzKHsKICAgICAgbXNnOiAn5Yig6Zmk5p2D6ZmQ5oiQ5YqfJywKICAgICAgZXJyb3JDb2RlOiA4CiAgICB9KQogIH0KKQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHBsYXRmb3JtID0gdi5nZXQoJ2JvZHkuJykK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
