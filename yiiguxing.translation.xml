@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="道具" />
       <item value="定时任务" />
       <item value="创角" />
       <item value="创角留存" />
@@ -19,7 +20,6 @@
       <item value="突破石" />
       <item value="玄晶" />
       <item value="引号" />
-      <item value="道具" />
       <item value="Operation" />
     </histories>
     <option name="languageScores">
