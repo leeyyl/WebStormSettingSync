@@ -45,7 +45,7 @@
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/package.json" timestamp="1587040158213">
+      <file name="$USER_HOME$/Desktop/bff/package.json" timestamp="1587189849356">
         <mark key="[" line="9" column="101" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/register.js" timestamp="1587036191778">
@@ -53,8 +53,8 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/subtotals.js" timestamp="1587189383115">
-        <mark key="[" line="18" column="46" />
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/subtotals.js" timestamp="1587189685835">
+        <mark key="[" line="18" column="10" />
         <mark key="]" line="18" column="47" />
         <mark key="." line="18" column="46" />
         <mark key="^" line="18" column="47" />
@@ -74,11 +74,6 @@
         <mark key="[" line="156" column="14" />
         <mark key="]" line="151" column="22" />
         <mark key="." line="151" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1587025967926">
-        <mark key="[" line="72" column="40" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/report.js" timestamp="1587189543149">
         <mark key="[" line="10" column="31" />
@@ -122,6 +117,9 @@
         <mark key="[" line="5" column="25" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/pm2.conf.json" timestamp="1587189851091">
+        <mark key="[" line="9" column="23" />
       </file>
     </filemarks>
     <jumps>
