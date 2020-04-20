@@ -66,6 +66,11 @@
         <mark key="]" line="58" column="0" />
         <mark key="." line="58" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/config/setting.js" timestamp="1587204025683">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="28" />
+        <mark key="." line="3" column="28" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/email.js" timestamp="1587036274904">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -110,11 +115,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/single.js" timestamp="1587030849889">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/pm2.conf.json" timestamp="1587203615797">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -145,11 +145,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICBhcHAubGlzdGVuKHByb2Nlc3MuZW52LlBPUlQsICgpID0+IHsKICAgIGNvbnNvbGUubG9nKGBsaXN0ZW5pbmcgYXQgaHR0cDovL2xvY2FsaG9zdDoke3Byb2Nlc3MuZW52LlBPUlR9YCkKICB9KQo=</text>
+      <register name="*" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>5</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjdHgubG9nZ2VyLmluZm8oJy0tLS0tLS0tc3RhcnQgc2NoZWR1bGVkIHRhc2stLS0tLS0tLScpOwo=</text>
