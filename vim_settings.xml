@@ -45,10 +45,10 @@
         <mark key="." line="94" column="0" />
         <mark key="^" line="7" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1587189459229">
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="87" column="0" />
-        <mark key="." line="87" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1587454750618">
+        <mark key="[" line="49" column="22" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/config/log.js" timestamp="1587195834483">
         <mark key="[" line="4" column="17" />
@@ -61,11 +61,11 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/subtotals.js" timestamp="1587453283218">
-        <mark key="[" line="35" column="12" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="12" column="25" />
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/subtotals.js" timestamp="1587454883392">
+        <mark key="[" line="241" column="31" />
+        <mark key="]" line="306" column="33" />
+        <mark key="." line="306" column="33" />
+        <mark key="^" line="306" column="66" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/config/setting.js" timestamp="1587204025683">
         <mark key="[" line="3" column="28" />
@@ -77,10 +77,11 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/report.js" timestamp="1587189543149">
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/report.js" timestamp="1587454637756">
+        <mark key="[" line="81" column="29" />
+        <mark key="]" line="93" column="45" />
+        <mark key="." line="93" column="0" />
+        <mark key="^" line="77" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/guild.js" timestamp="1587036285315">
         <mark key="[" line="29" column="0" />
@@ -145,41 +146,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnLi4vLi4vbWlkZGxld2FyZS9sb2dnZXInCg==</text>
+      <register name="*" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgubG9nZ2VyLmluZm8oJy0tLS0tLS0tc3RhcnQgc2NoZWR1bGVkIHRhc2stLS0tLS0tLScpOwo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCfwn5KU5q+P5aSp5rOo5YaM5oql6KGo77yaJywgZXJyb3IubWVzc2FnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnLi4vLi4vbWlkZGxld2FyZS9sb2dnZXInCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJ/CfkprvvJrmr4/lsI/ml7bnmbvlvZXnmbvlh7p7c3RhcnR9JykK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgZGVwbG95OiB7CiAgICBwcm9kdWN0aW9uOiB7CiAgICAgIHVzZXI6ICdub2RlJywKICAgICAgaG9zdDogJzIxMi44My4xNjMuMScsCiAgICAgIHJlZjogJ29yaWdpbi9tYXN0ZXInLAogICAgICByZXBvOiAnZ2l0QGdpdGh1Yi5jb206cmVwby5naXQnLAogICAgICBwYXRoOiAnL3Zhci93d3cvcHJvZHVjdGlvbicsCiAgICAgICdwb3N0LWRlcGxveSc6ICducG0gaW5zdGFsbCAmJiBwbTIgcmVsb2FkIGVjb3N5c3RlbS5jb25maWcuanMgLS1lbnYgcHJvZHVjdGlvbicKICAgIH0KICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnLi4vLi4vbWlkZGxld2FyZS9sb2dnZXInCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcHAubGlzdGVuKHByb2Nlc3MuZW52LlBPUlQsICgpID0+IHsKICAgIGNvbnNvbGUubG9nKGBsaXN0ZW5pbmcgYXQgaHR0cDovL2xvY2FsaG9zdDoke3Byb2Nlc3MuZW52LlBPUlR9YCkKICB9KQo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya57uf6K6h562J57qn5YiG5biDe21vbWVudCgpfScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAiaW5jcmVtZW50X3ZhciI6ICJQT1JUIiwKICAgICAgICAiZW52IjogewogICAgICAgICAgICAiUE9SVCI6IDYwMDAsCiAgICAgICAgICAgICJOT0RFX0VOViI6ICJwcm9kdWN0aW9uIgogICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5Ymv5pys5YWz5Y2h5YiG5biDe21vbWVudCgpfScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZUVuZCgnc2NoZWR1bGVkIHRhc2snKQo=</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya57uf6K6h6YGT5YW35bqT5a2Ye21vbWVudCgpfScpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUudGltZSgnc2NoZWR1bGVkIHRhc2snKQo=</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnLi4vLi4vbWlkZGxld2FyZS9sb2dnZXInCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnLS0tLS0tLS0tZW5kIHNjaGVkdWxlZCB0YXNrLS0tLS0tLS0tJykK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5YiG57G75rGH5oC75YWs5Lya5pel5b+Xe21vbWVudCgpfScpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dpbmcuaW5mbygnLS0tLS0tLS1zdGFydCBzY2hlZHVsZWQgdGFzay0tLS0tLS0tJykK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5YiG57G75rGH5oC76YKu5Lu25pel5b+Xe21vbWVudCgpfScpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2luZyB9IGZyb20gJ2xpbi1taXphcicK</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5YiG57G75rGH5oC75Ymv5pys5pel5b+Xe21vbWVudCgpfScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
