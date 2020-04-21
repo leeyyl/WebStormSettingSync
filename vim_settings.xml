@@ -34,16 +34,12 @@
       <file name="/fragment.js" timestamp="1587469957946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/login.js" timestamp="1587036210674">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1587469910798">
         <mark key="[" line="40" column="47" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1587472298274" />
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1587454750618">
         <mark key="[" line="49" column="22" />
         <mark key="]" line="78" column="0" />
@@ -77,6 +73,7 @@
         <mark key="." line="93" column="0" />
         <mark key="^" line="77" column="45" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1587472339658" />
       <file name="$USER_HOME$/Desktop/bff/app/models/guild.js" timestamp="1587036285315">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -87,7 +84,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587470047820">
+      <file name="/JavaScript Console" timestamp="1587472066528">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/copy.js" timestamp="1587036266314">
@@ -99,11 +96,6 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/level.js" timestamp="1587036235175">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/ecosystem.config.js" timestamp="1587380534849">
         <mark key="[" line="30" column="24" />
