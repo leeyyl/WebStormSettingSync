@@ -34,10 +34,10 @@
       <file name="/fragment.js" timestamp="1587469957946">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1587469910798">
-        <mark key="[" line="40" column="47" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1587527368599">
+        <mark key="[" line="96" column="0" />
+        <mark key="]" line="96" column="0" />
+        <mark key="." line="96" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1587472298274" />
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1587454750618">
@@ -84,7 +84,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587472066528">
+      <file name="/JavaScript Console" timestamp="1587527069299">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/copy.js" timestamp="1587036266314">
@@ -134,7 +134,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGN0eC5yZXNwb25zZS5yZWRpcmVjdCgnL3YxL3VzZXIvbG9naW4nKQo=</text>
+        <text encoding="base64">ICBpbmRleFBhZ2UoYXBwKQo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -143,31 +143,31 @@
         <text encoding="base64">ICAgICAgbG9nZ2VyLmVycm9yKCfwn5KU5q+P5aSp5rOo5YaM5oql6KGo77yaJywgZXJyb3IubWVzc2FnZSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGN0eC5yZXNwb25zZS5yZWRpcmVjdCgnL3YxL3VzZXIvbG9naW4nKQo=</text>
+        <text encoding="base64">ICBpbmRleFBhZ2UoYXBwKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIoJ/CfkprvvJrmr4/lsI/ml7bnmbvlvZXnmbvlh7p7c3RhcnR9JykK</text>
+        <text encoding="base64">ICAgIGN0eC5yZXNwb25zZS5yZWRpcmVjdCgnL3YxL3VzZXIvbG9naW4nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnLi4vLi4vbWlkZGxld2FyZS9sb2dnZXInCg==</text>
+        <text encoding="base64">ICAgICAgICBsb2dnZXIoJ/CfkprvvJrmr4/lsI/ml7bnmbvlvZXnmbvlh7p7c3RhcnR9JykK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya57uf6K6h562J57qn5YiG5biDe21vbWVudCgpfScpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5Ymv5pys5YWz5Y2h5YiG5biDe21vbWVudCgpfScpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya57uf6K6h6YGT5YW35bqT5a2Ye21vbWVudCgpfScpCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnLi4vLi4vbWlkZGxld2FyZS9sb2dnZXInCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya57uf6K6h562J57qn5YiG5biDe21vbWVudCgpfScpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5Ymv5pys5YWz5Y2h5YiG5biDe21vbWVudCgpfScpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya57uf6K6h6YGT5YW35bqT5a2Ye21vbWVudCgpfScpCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5YiG57G75rGH5oC75YWs5Lya5pel5b+Xe21vbWVudCgpfScpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9nZ2VyIH0gZnJvbSAnLi4vLi4vbWlkZGxld2FyZS9sb2dnZXInCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5YiG57G75rGH5oC76YKu5Lu25pel5b+Xe21vbWVudCgpfScpCg==</text>
+        <text encoding="base64">ICAgICAgbG9nZ2VyKCfwn5Ka77ya5YiG57G75rGH5oC75YWs5Lya5pel5b+Xe21vbWVudCgpfScpCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
