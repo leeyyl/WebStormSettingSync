@@ -26,22 +26,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1587469957946">
+      <file name="/fragment.js" timestamp="1587635125278">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/config/log.js" timestamp="1587195834483">
-        <mark key="[" line="4" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/subtotals.js" timestamp="1587458942503">
         <mark key="[" line="18" column="66" />
         <mark key="]" line="114" column="21" />
         <mark key="." line="114" column="20" />
         <mark key="^" line="114" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/config/setting.js" timestamp="1587204025683">
-        <mark key="[" line="3" column="28" />
-        <mark key="]" line="3" column="28" />
-        <mark key="." line="3" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1587545821093">
         <mark key="[" line="166" column="27" />
@@ -65,6 +57,8 @@
       <file name="$USER_HOME$/Desktop/bff/app/dao/report.js" timestamp="1587622871783">
         <mark key="[" line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/server.js" timestamp="1587634696766" />
+      <file name="$USER_HOME$/Desktop/bff/app/validators/server.js" timestamp="1587634701006" />
       <file name="$USER_HOME$/Desktop/bff/app/starter.js" timestamp="1587541128667">
         <mark key="[" line="39" column="17" />
         <mark key="]" line="42" column="0" />
