@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="汇总" />
+      <item value="返回值" />
+      <item value="结果集" />
       <item value="活跃区" />
       <item value="次数" />
       <item value="平台充值" />
