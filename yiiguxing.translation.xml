@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="活跃区" />
+      <item value="次数" />
       <item value="平台充值" />
       <item value="昨天" />
       <item value="道具" />
