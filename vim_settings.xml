@@ -78,6 +78,9 @@
         <mark key="[" line="8" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1587545921912" />
+      <file name="/" timestamp="1587961186057">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1587624049460">
         <mark key="[" line="86" column="23" />
         <mark key="]" line="97" column="0" />
@@ -87,11 +90,6 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/pm2.conf.json" timestamp="1587351292066">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
     </filemarks>
     <jumps>
