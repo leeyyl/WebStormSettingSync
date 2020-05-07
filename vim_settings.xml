@@ -73,6 +73,9 @@
         <mark key="." line="30" column="27" />
         <mark key="^" line="30" column="28" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/libs/db.js" timestamp="1588841500981">
+        <mark key="'" line="24" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/home.js" timestamp="1588833638941">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -111,6 +114,7 @@
       <jump line="50" column="2" filename="$USER_HOME$/Desktop/bff/app/models/statistics-level.js" />
       <jump line="50" column="2" filename="$USER_HOME$/Desktop/bff/app/models/statistics-copy.js" />
       <jump line="49" column="0" filename="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" />
+      <jump line="24" column="27" filename="$USER_HOME$/Desktop/bff/app/libs/db.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
