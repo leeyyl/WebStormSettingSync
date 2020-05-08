@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="audit" />
       <item value="汇总" />
       <item value="返回值" />
       <item value="结果集" />
@@ -31,7 +32,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="2" />
+        <entry key="CHINESE" value="3" />
         <entry key="ENGLISH" value="3" />
       </map>
     </option>
