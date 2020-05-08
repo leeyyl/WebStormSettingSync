@@ -26,8 +26,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1588912105601">
-        <mark key="[" line="0" column="0" />
+      <file name="/fragment.js" timestamp="1588918891953">
+        <mark key="[" line="0" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/statistics-level.js" timestamp="1588847134178">
         <mark key="[" line="0" column="21" />
@@ -45,7 +45,7 @@
         <mark key="[" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1588904616332" />
-      <file name="/JavaScript Console" timestamp="1588912069636">
+      <file name="/JavaScript Console" timestamp="1588919040845">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/user.js" timestamp="1588847177643">
