@@ -32,9 +32,6 @@
       <file name="$USER_HOME$/Desktop/bff/app/models/statistics-level.js" timestamp="1588847134178">
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/group-permission.js" timestamp="1588846905531">
-        <mark key="[" line="1" column="21" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/subtotals.js" timestamp="1588851485313">
         <mark key="[" line="31" column="45" />
         <mark key="]" line="305" column="0" />
@@ -47,11 +44,11 @@
       <file name="$USER_HOME$/Desktop/bff/app/models/statistics-props.js" timestamp="1588847151139">
         <mark key="[" line="0" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/group.js" timestamp="1588846922478">
-        <mark key="[" line="0" column="21" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/guild.js" timestamp="1588846936999">
         <mark key="[" line="0" column="21" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1588851541441">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/hour-report.js" timestamp="1588846950308">
         <mark key="[" line="0" column="21" />
@@ -76,6 +73,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/log.js" timestamp="1588846976527">
         <mark key="[" line="0" column="21" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1588902601743">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/data.js" timestamp="1588849368000">
         <mark key="[" line="1" column="0" />
