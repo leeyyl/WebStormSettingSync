@@ -1,9 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="分钟" />
+      <item value="频率" />
       <item value="发布" />
       <item value="跑马灯公告" />
-      <item value="频率" />
       <item value="公告" />
       <item value="审核" />
       <item value="audit" />
