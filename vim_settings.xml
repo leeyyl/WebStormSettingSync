@@ -84,7 +84,8 @@
         <mark key="." line="55" column="0" />
         <mark key="^" line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1589426152552">
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1589427375286">
+        <mark key="'" line="44" column="29" />
         <mark key="i" line="130" column="13" />
         <mark key="[" line="70" column="59" />
         <mark key="]" line="39" column="0" />
@@ -115,6 +116,7 @@
       <jump line="50" column="2" filename="$USER_HOME$/Desktop/bff/app/models/statistics-copy.js" />
       <jump line="49" column="0" filename="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" />
       <jump line="24" column="27" filename="$USER_HOME$/Desktop/bff/app/libs/db.js" />
+      <jump line="44" column="29" filename="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
