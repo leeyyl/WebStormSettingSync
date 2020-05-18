@@ -30,6 +30,9 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -41,7 +44,7 @@
         <mark key="." line="29" column="35" />
         <mark key="^" line="29" column="53" />
       </file>
-      <file name="/fragment.js" timestamp="1589775997086">
+      <file name="/fragment.js" timestamp="1589788738568">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/report.js" timestamp="1589527315360">
@@ -50,7 +53,7 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/libs/db.js" timestamp="1589773192893" />
-      <file name="/JavaScript Console" timestamp="1589775982774">
+      <file name="/JavaScript Console" timestamp="1589789323677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/hour-report.js" timestamp="1589539402446">
@@ -69,12 +72,7 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/excel.js" timestamp="1589775971507">
-        <mark key="[" line="55" column="37" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="9" column="28" />
-      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/excel.js" timestamp="1589789063380" />
       <file name="$USER_HOME$/Desktop/bff/app/config/secure.js" timestamp="1589773268372">
         <mark key="[" line="19" column="110" />
       </file>
@@ -151,7 +149,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VIZXJvRXhjZWwoKQogICAgYXdhaXQgcmVkaXMKICAgICAgLm11bHRpKCkKICAgICAgLmhtc2V0KCdmc19oZXJvJywgcmVzdWx0KQogICAgICAuZXhlYyhmdW5jdGlvbiAoZXJyLCByZXN1bHRzKSB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgbG9nZ2VyLmVycm9yKCdTdG9yZSBoZXJvIHRvIHJlZGlzIGZhaWxlZDogJywgZXJyKQogICAgICAgIH0KICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLmhtc2V0KCdmc19pdGVtJywgSlNPTi5zdHJpbmdpZnkocmVzdWx0KSkK</text>
       </register>
       <register name="-" type="4">
         <text>[Sequelize.literal('COUNT(DISTINCT(player_id))'), 'num']</text>
@@ -160,31 +158,31 @@
         <text encoding="base64">ICAgIHRoaXMuc2VuZGVyID0gbmV3IFJ1bGUoJ2lzTm90RW1wdHknLCAn5Y+R6YCB6ICFc2VuZGVy5LiN5Y+v5Li656m6JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VIZXJvRXhjZWwoKQogICAgYXdhaXQgcmVkaXMKICAgICAgLm11bHRpKCkKICAgICAgLmhtc2V0KCdmc19oZXJvJywgcmVzdWx0KQogICAgICAuZXhlYyhmdW5jdGlvbiAoZXJyLCByZXN1bHRzKSB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgbG9nZ2VyLmVycm9yKCdTdG9yZSBoZXJvIHRvIHJlZGlzIGZhaWxlZDogJywgZXJyKQogICAgICAgIH0KICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgLmhtc2V0KCdmc19pdGVtJywgSlNPTi5zdHJpbmdpZnkocmVzdWx0KSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VIZXJvRXhjZWwoKQogICAgYXdhaXQgcmVkaXMKICAgICAgLm11bHRpKCkKICAgICAgLmhtc2V0KCdmc19oZXJvJywgcmVzdWx0KQogICAgICAuZXhlYyhmdW5jdGlvbiAoZXJyLCByZXN1bHRzKSB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgbG9nZ2VyLmVycm9yKCdTdG9yZSBoZXJvIHRvIHJlZGlzIGZhaWxlZDogJywgZXJyKQogICAgICAgIH0KICAgICAgfSkK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VJdGVtRXhjZWwoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJlZGlzLm11bHRpKCkK</text>
+        <text encoding="base64">ICAgICAgLmhtc2V0KCdmc19oZXJvJywgSlNPTi5zdHJpbmdpZnkocmVzdWx0KSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VIZXJvRXhjZWwoKQogICAgYXdhaXQgcmVkaXMKICAgICAgLm11bHRpKCkKICAgICAgLmhtc2V0KCdmc19oZXJvJywgcmVzdWx0KQogICAgICAuZXhlYyhmdW5jdGlvbiAoZXJyLCByZXN1bHRzKSB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgbG9nZ2VyLmVycm9yKCdTdG9yZSBoZXJvIHRvIHJlZGlzIGZhaWxlZDogJywgZXJyKQogICAgICAgIH0KICAgICAgfSkK</text>
       </register>
       <register name="6" type="2">
-        <text />
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VIZXJvRXhjZWwoKQogICAgYXdhaXQgcmVkaXMKICAgICAgLm11bHRpKCkKICAgICAgLmhtc2V0KCdmc19oZXJvJywgcmVzdWx0KQogICAgICAuZXhlYyhmdW5jdGlvbiAoZXJyLCByZXN1bHRzKSB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgbG9nZ2VyLmVycm9yKCdTdG9yZSBoZXJvIHRvIHJlZGlzIGZhaWxlZDogJywgZXJyKQogICAgICAgIH0KICAgICAgfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlZGlzLm11bHRpKCkK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Cik=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
