@@ -44,19 +44,13 @@
       <file name="/fragment.js" timestamp="1589539348611">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/hour-task.js" timestamp="1589526558770">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="55" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/report.js" timestamp="1589527315360">
         <mark key="[" line="53" column="3" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/libs/db.js" timestamp="1589773192893" />
-      <file name="/JavaScript Console" timestamp="1589539464751">
+      <file name="/JavaScript Console" timestamp="1589775518917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/hour-report.js" timestamp="1589539402446">
@@ -75,11 +69,17 @@
         <mark key="." line="52" column="0" />
         <mark key="^" line="24" column="11" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/excel.js" timestamp="1589775755245">
+        <mark key="[" line="54" column="37" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
+        <mark key="^" line="9" column="28" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/config/secure.js" timestamp="1589773268372">
         <mark key="[" line="19" column="110" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1589770627482">
-        <mark key="[" line="8" column="45" />
+      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1589775471691">
+        <mark key="[" line="107" column="21" />
         <mark key="]" line="115" column="0" />
         <mark key="." line="115" column="0" />
       </file>
@@ -151,7 +151,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VIZXJvRXhjZWwoKQogICAgYXdhaXQgcmVkaXMKICAgICAgLm11bHRpKCkKICAgICAgLmhtc2V0KCdmc19oZXJvJywgcmVzdWx0KQogICAgICAuZXhlYyhmdW5jdGlvbiAoZXJyLCByZXN1bHRzKSB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgbG9nZ2VyLmVycm9yKCdTdG9yZSBoZXJvIHRvIHJlZGlzIGZhaWxlZDogJywgZXJyKQogICAgICAgIH0KICAgICAgfSkK</text>
       </register>
       <register name="-" type="4">
         <text>[Sequelize.literal('COUNT(DISTINCT(player_id))'), 'num']</text>
@@ -160,31 +160,31 @@
         <text encoding="base64">ICAgIHRoaXMuc2VuZGVyID0gbmV3IFJ1bGUoJ2lzTm90RW1wdHknLCAn5Y+R6YCB6ICFc2VuZGVy5LiN5Y+v5Li656m6JykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VIZXJvRXhjZWwoKQogICAgYXdhaXQgcmVkaXMKICAgICAgLm11bHRpKCkKICAgICAgLmhtc2V0KCdmc19oZXJvJywgcmVzdWx0KQogICAgICAuZXhlYyhmdW5jdGlvbiAoZXJyLCByZXN1bHRzKSB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgbG9nZ2VyLmVycm9yKCdTdG9yZSBoZXJvIHRvIHJlZGlzIGZhaWxlZDogJywgZXJyKQogICAgICAgIH0KICAgICAgfSkK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Cik=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlc3VsdCA9IGF3YWl0IHRoaXMucGFyc2VIZXJvRXhjZWwoKQogICAgYXdhaXQgcmVkaXMKICAgICAgLm11bHRpKCkKICAgICAgLmhtc2V0KCdmc19oZXJvJywgcmVzdWx0KQogICAgICAuZXhlYyhmdW5jdGlvbiAoZXJyLCByZXN1bHRzKSB7CiAgICAgICAgaWYgKGVycikgewogICAgICAgICAgbG9nZ2VyLmVycm9yKCdTdG9yZSBoZXJvIHRvIHJlZGlzIGZhaWxlZDogJywgZXJyKQogICAgICAgIH0KICAgICAgfSkK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CnNlcXVlbGl6ZS5zeW5jKHsKICBmb3JjZTogZmFsc2UKfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJlZGlzLm11bHRpKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcmVkaXMgPSBuZXcgUmVkaXMoewogIHBvcnQ6IDYzNzksIC8vIFJlZGlzIHBvcnQKICBob3N0OiAnMTI3LjAuMC4xJywgLy8gUmVkaXMgaG9zdAogIGZhbWlseTogNCwgLy8gNCAoSVB2NCkgb3IgNiAoSVB2NikKICBwYXNzd29yZDogJ0xlZSMyMDIwJywKICBkYjogMAp9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgcG9ydCA9IGNvCg==</text>
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ci8qKgogKiDlhbblroPmlbDmja7lupPphY3nva7pobkKICovCmNvbnN0IG9wdGlvbnMgPSBjb25maWcuZ2V0SXRlbSgnZGInLCB7fSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ci8qKgogKiDmlbDmja7lupPlr4bnoIHvvIzpu5jorqQxMjM0NTYKICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ci8qKgogKiDmlbDmja7lupPnlKjmiLflkI3vvIzpu5jorqRyb290CiAqLwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">Cik=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
