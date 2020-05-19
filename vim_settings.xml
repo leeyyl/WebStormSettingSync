@@ -38,10 +38,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1589878026175">
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1589880742135">
+        <mark key="[" line="83" column="21" />
+        <mark key="]" line="83" column="21" />
+        <mark key="." line="83" column="21" />
       </file>
       <file name="/fragment.js" timestamp="1589861380862">
         <mark key="[" line="0" column="0" />
@@ -63,11 +63,11 @@
       <file name="internal/modules/cjs/loader.js" timestamp="1589796500051">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/block-role.js" timestamp="1589875061164">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="42" column="5" />
-        <mark key="^" line="43" column="14" />
-        <mark key="." line="42" column="5" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/block-role.js" timestamp="1589881870613">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="18" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1589874071698">
         <mark key="[" line="25" column="30" />
@@ -87,16 +87,22 @@
         <mark key="^" line="53" column="32" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1589793293585">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1589861966319" />
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/role.js" timestamp="1589862211958">
         <mark key="[" line="165" column="16" />
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1589880253398" />
+      <file name="$USER_HOME$/Desktop/bff/app/validators/tool.js" timestamp="1589881955697">
+        <mark key="[" line="37" column="39" />
+        <mark key="]" line="37" column="39" />
+        <mark key="." line="37" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1589881879651">
+        <mark key="[" line="194" column="0" />
+        <mark key="]" line="194" column="0" />
+        <mark key="." line="194" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/level.js" timestamp="1589862116573">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -104,11 +110,11 @@
         <mark key="^" line="4" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1589878703408" />
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1589880555314">
-        <mark key="'" line="34" column="10" />
-        <mark key="[" line="205" column="31" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1589880698969">
+        <mark key="'" line="39" column="10" />
+        <mark key="[" line="211" column="5" />
+        <mark key="]" line="210" column="0" />
+        <mark key="." line="210" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -140,52 +146,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXllciA9IHYuZ2V0KCdib2R5LnBsYXllcicpCiAgICBjb25zdCBtaW51dGVzID0gdi5nZXQoJ2JvZHkubWludXRlcycpCg==</text>
+      <register name="*" type="4">
+        <text>公告有效期valid格式</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>公告有效期valid格式</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjdHgubG9nZ2VyLmVycm9yKCfkuI3lkIjms5XnmoTotKfluIEnLCBjdXJyZW5jeS5wcm9wX2lkLCAnOiAnLCBlLm1lc3NhZ2UpCiAgICAgICAgY3VycmVuY3kucHJvcF9uYW1lID0gJycK</text>
+        <text encoding="base64">ICAgIHRoaXMub3BlcmF0b3IgPSBuZXcgUnVsZSgnaXNOb3RFbXB0eScsICfmk43kvZzkurpvcGVyYXRvcuS4jeWPr+S4uuepuicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBsYXllciA9IHYuZ2V0KCdib2R5LnBsYXllcicpCiAgICBjb25zdCBtaW51dGVzID0gdi5nZXQoJ2JvZHkubWludXRlcycpCg==</text>
+        <text encoding="base64">ICAgIHRoaXMucGxheWVyX25hbWUgPSBuZXcgUnVsZSgnaXNOb3RFbXB0eScsICflv4XpobvkvKDlhazlkYrlhoXlrrljb250ZW50JykK</text>
       </register>
-      <register name="2" type="4">
-        <text>Object.assign(
-          {
-            ip: v.get('body.ip'),
-            channel: v.get('body.channel'),
-            sub_channel: v.get('body.sub_channel'),
-            player_id: v.get('body.player_id'),
-            player_name: v.get('body.player_name'),
-            servers: v.get('body.servers'),
-            operator: v.get('body.operator')
-          },
-          condition
-        )</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGxheWVyX25hbWU6IHYuZ2V0KCdib2R5LnBsYXllcl9uYW1lJyksCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvbmRpdGlvbiA9IHt9CiAgICB2LmdldCgnYm9keS5vbmxpbmUnKSAmJiBzZXQoY29uZGl0aW9uLCAnb25saW5lJywgdi5nZXQoJ2JvZHkub25saW5lJykpCiAgICB2LmdldCgnYm9keS5mb3JiaWRkZW4nKSAmJiBzZXQoY29uZGl0aW9uLCAnZm9yYmlkZGVuJywgdi5nZXQoJ2JvZHkuZm9yYmlkZGVuJykpCiAgICB2LmdldCgnYm9keS5ibG9jaycpICYmIHNldChjb25kaXRpb24sICdibG9jaycsIHYuZ2V0KCdib2R5LmJsb2NrJykpCg==</text>
+        <text encoding="base64">ICAgIHBsYXllcl9uYW1lOiB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcoeyBsZW5ndGg6IDMyIH0pLAogICAgICBhbGxvd051bGw6IGZhbHNlCiAgICB9LAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHBsYXRmb3JtOiB2LmdldCgnYm9keS5wbGF0Zm9ybScpLAogICAgICAgICAgY2hhbm5lbDogdi5nZXQoJ2JvZHkuY2hhbm5lbCcpLAogICAgICAgICAgc3ViX2NoYW5uZWw6IHYuZ2V0KCdib2R5LnN1Yl9jaGFubmVsJyksCiAgICAgICAgICBwbGF5ZXJfaWQ6IHYuZ2V0KCdib2R5LnBsYXllcl9pZCcpLAogICAgICAgICAgcGxheWVyX25hbWU6IHYuZ2V0KCdib2R5LnBsYXllcl9uYW1lJyksCiAgICAgICAgICBzZXJ2ZXJzOiB2LmdldCgnYm9keS5zZXJ2ZXJzJyksCiAgICAgICAgICBvcGVyYXRvcjogdi5nZXQoJ2JvZHkub3BlcmF0b3InKQo=</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udGVudCA9IG5ldyBSdWxlKCdpc05vdEVtcHR5JywgJ+W/hemhu+S8oOWFrOWRiuWGheWuuWNvbnRlbnQnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIG9ubGluZTogdi5nZXQoJ2JvZHkub25saW5lJyksCiAgICAgICAgICBmb3JiaWRkZW46IHYuZ2V0KCdib2R5LmZvcmJpZGRlbicpLAogICAgICAgICAgYmxvY2s6IHYuZ2V0KCdib2R5LmJsb2NrJyksCg==</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VuZGVyID0gbmV3IFJ1bGUoJ2lzTm90RW1wdHknLCAn5Y+R6YCB6ICFc2VuZGVy5LiN5Y+v5Li656m6JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHB1Ymxpc2hfdGltZTogdi5nZXQoJ2JvZHkucHVibGlzaF90aW1lJyksCg==</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucHVibGlzaF90aW1lID0gbmV3IFJ1bGUoJ2lzRGF0ZScsICfpooTlj5HluIPml7bpl7RwdWJsaXNoX3RpbWXkuI3lkIjms5XnmoTml7bpl7TmoLzlvI8nKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGxldCBhbm5vdW5jZW1lbnQK</text>
+        <text encoding="base64">ICAgIHRoaXMuY29udGVudCA9IG5ldyBSdWxlKCdpc05vdEVtcHR5JywgJ+W/hemhu+S8oOWFrOWRiuWGheWuuWNvbnRlbnQnKQogICAgdGhpcy5mcmVxdWVuY3kgPSBuZXcgUnVsZSgnaXNJbnQnLCAn6aKR546HZnJlcXVlbmN55b+F6aG75piv5pW05pWw77yM5LiU5aSn5LqOMCcpCiAgICB0aGlzLmNoYW5uZWwgPSBuZXcgUnVsZSgnaXNOb3RFbXB0eScsICfmuKDpgZNjaGFubmVs5LiN5Y+v5Li656m6JykKICAgIHRoaXMuc3ViX2NoYW5uZWwgPSBuZXcgUnVsZSgnaXNOb3RFbXB0eScsICflrZDmuKDpgZNzdWJfY2hhbm5lbOS4jeWPr+S4uuepuicpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxldCB0cmFuc2FjdGlvbgogICAgdHJ5IHsKICAgICAgdHJhbnNhY3Rpb24gPSBhd2FpdCBzZXF1ZWxpemUudHJhbnNhY3Rpb24oKQogICAgICBhd2FpdCBQbGF0Zm9ybU1vZGVsLmNyZWF0ZSgKICAgICAgICB7CiAgICAgICAgICBuYW1lOiBuYW1lCiAgICAgICAgfSwKICAgICAgICB7CiAgICAgICAgICB0cmFuc2FjdGlvbgogICAgICAgIH0KICAgICAgKQogICAgICBhd2FpdCB0cmFuc2FjdGlvbi5jb21taXQoKQogICAgfSBjYXRjaCAoZXJyKSB7CiAgICAgIGlmICh0cmFuc2FjdGlvbikgYXdhaXQgdHJhbnNhY3Rpb24ucm9sbGJhY2soKQogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMucHVibGlzaF90aW1lID0gbmV3IFJ1bGUoJ2lzRGF0ZScsICfpooTlj5HluIPml7bpl7RwdWJsaXNoX3RpbWXkuI3lkIjms5XnmoTml7bpl7TmoLzlvI8nKQogICAgdGhpcy52YWxpZCA9IG5ldyBSdWxlKCdpc0pTT04nLCAn5YWs5ZGK5pyJ5pWI5pyfdmFsaWTmoLzlvI/kuLpKU09OJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBlbWFpbAo=</text>
+        <text encoding="base64">ICAgIHRoaXMub3BlcmF0b3IgPSBuZXcgUnVsZSgnaXNOb3RFbXB0eScsICflj5HpgIHogIVzZW5kZXLkuI3lj6/kuLrnqbonKQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
