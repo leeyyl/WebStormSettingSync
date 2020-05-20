@@ -54,13 +54,14 @@
       <file name="/fragment.js" timestamp="1589892419741">
         <mark key="[" line="0" column="1" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1589960258289" />
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/role.js" timestamp="1589958568429">
         <mark key="[" line="165" column="16" />
         <mark key="]" line="167" column="0" />
         <mark key="." line="167" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/tool.js" timestamp="1589891868159">
-        <mark key="[" line="36" column="7" />
+      <file name="$USER_HOME$/Desktop/bff/app/validators/tool.js" timestamp="1589960010867">
+        <mark key="[" line="21" column="48" />
         <mark key="]" line="35" column="72" />
         <mark key="." line="35" column="72" />
       </file>
@@ -82,8 +83,8 @@
       <file name="/JavaScript Console" timestamp="1589959562911">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1589939484623">
-        <mark key="[" line="211" column="23" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1589960052613">
+        <mark key="[" line="105" column="28" />
         <mark key="]" line="195" column="40" />
         <mark key="." line="195" column="40" />
       </file>
@@ -99,18 +100,18 @@
         <mark key="^" line="11" column="18" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1589874071698">
-        <mark key="[" line="25" column="30" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1589959860240">
+        <mark key="[" line="25" column="44" />
         <mark key="]" line="52" column="0" />
         <mark key="." line="52" column="0" />
         <mark key="^" line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1589892856647">
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1589960088366">
         <mark key="'" line="39" column="10" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-        <mark key="^" line="247" column="5" />
+        <mark key="[" line="140" column="67" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="249" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/block-ip.js" timestamp="1589891805347">
         <mark key="[" line="16" column="31" />
