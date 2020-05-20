@@ -93,10 +93,10 @@
         <mark key="]" line="35" column="72" />
         <mark key="." line="35" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1589942540883">
-        <mark key="[" line="1" column="49" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1589948623243">
+        <mark key="[" line="28" column="29" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1589939484623">
         <mark key="[" line="211" column="23" />
@@ -148,7 +148,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG9wID09PSAnJykgcGxheWVyLm9ubGluZSA9IG9ubGluZQogICAgICBpZiAoZm9yYmlkZGVuKSBwbGF5ZXIuZm9yYmlkZGVuID0gZm9yYmlkZGVuCg==</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBhd2FpdCByZWRpcy5oc2NhbignZmVuZ3NoZW46Z2FtZTpoZXJvJywgMCkKICAgIGxldCBjdXJzb3IgPSBwYXJzZUludChyZXN1bHRbMF0pCiAgICB3aGlsZSAoY3Vyc29yICE9PSAwKSB7CiAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>布尔值true或者false</text>
@@ -157,16 +157,16 @@
         <text encoding="base64">ICAgIHYuZ2V0KCdib2R5Lm9ubGluZScpICYmIHNldChjb25kaXRpb24sICdvbmxpbmUnLCB2LmdldCgnYm9keS5vbmxpbmUnKSkKICAgIHYuZ2V0KCdib2R5LmZvcmJpZGRlbicpICYmIHNldChjb25kaXRpb24sICdmb3JiaWRkZW4nLCB2LmdldCgnYm9keS5mb3JiaWRkZW4nKSkKICAgIHYuZ2V0KCdib2R5LmJsb2NrJykgJiYgc2V0KGNvbmRpdGlvbiwgJ2Jsb2NrJywgdi5nZXQoJ2JvZHkuYmxvY2snKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG9wID09PSAnJykgcGxheWVyLm9ubGluZSA9IG9ubGluZQogICAgICBpZiAoZm9yYmlkZGVuKSBwbGF5ZXIuZm9yYmlkZGVuID0gZm9yYmlkZGVuCg==</text>
+        <text encoding="base64">ICAgIGxldCByZXN1bHQgPSBhd2FpdCByZWRpcy5oc2NhbignZmVuZ3NoZW46Z2FtZTpoZXJvJywgMCkKICAgIGxldCBjdXJzb3IgPSBwYXJzZUludChyZXN1bHRbMF0pCiAgICB3aGlsZSAoY3Vyc29yICE9PSAwKSB7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSkK</text>
+        <text encoding="base64">ICAgICAgcmVzdWx0ID0gYXdhaXQgcmVkaXMuaHNjYW4oJ2ZlbmdzaGVuOmdhbWU6aGVybycsIGN1cnNvcikKICAgICAgY3Vyc29yID0gcGFyc2VJbnQocmVzdWx0WzBdKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSkK</text>
+        <text encoding="base64">ICAgICAgaWYgKG9wID09PSAnJykgcGxheWVyLm9ubGluZSA9IG9ubGluZQogICAgICBpZiAoZm9yYmlkZGVuKSBwbGF5ZXIuZm9yYmlkZGVuID0gZm9yYmlkZGVuCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSkK</text>
@@ -175,13 +175,13 @@
         <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgYXdhaXQgQmxvY2tSb2xlTW9kZWwuYnVsa0NyZWF0ZShwbGF5ZXJzLCB7CiAgICAgICAgdHJhbnNhY3Rpb24sCiAgICAgICAgdXBkYXRlT25EdXBsaWNhdGU6IFsncGxheWVyX2lkJywgJ29ubGluZScsICdmb3JiaWRkZW4nLCAnYmxvY2snLCAnb3BlcmF0b3InLCAndXBkYXRlX3RpbWUnXQogICAgICB9KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coZXJyKQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhyZXMuYm9keSkK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
