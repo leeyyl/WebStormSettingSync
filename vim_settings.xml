@@ -38,12 +38,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1589892064745">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="25" column="23" />
-      </file>
       <file name="/fragment.js" timestamp="1589964474666">
         <mark key="[" line="0" column="0" />
       </file>
@@ -69,6 +63,9 @@
         <mark key="[" line="36" column="18" />
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/ecosystem.config.js" timestamp="1590041654287">
+        <mark key="[" line="41" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1589959860240">
         <mark key="[" line="25" column="44" />
