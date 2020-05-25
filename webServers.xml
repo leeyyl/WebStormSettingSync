@@ -1,0 +1,13 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="47043169-d6af-4429-95fd-1fb656d219bd" name="FengShen" url="http://8.129.185.178">
+        <fileTransfer rootFolder="/root" accessType="SFTP" host="8.129.185.178" port="22" sshConfigId="e8d20233-38f9-4490-bc1c-00128e147eac" sshConfig="root@8.129.185.178:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>
