@@ -97,12 +97,11 @@
         <mark key="]" line="17" column="42" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/ecosystem.config.js" timestamp="1590748432321">
+      <file name="$USER_HOME$/Desktop/bff/ecosystem.config.js" timestamp="1590749793144">
         <mark key="'" line="32" column="3" />
-        <mark key="[" line="52" column="22" />
-        <mark key="]" line="52" column="0" />
-        <mark key="^" line="45" column="6" />
-        <mark key="." line="52" column="0" />
+        <mark key="[" line="34" column="7" />
+        <mark key="]" line="45" column="5" />
+        <mark key="." line="45" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1589959860240">
         <mark key="[" line="25" column="44" />
@@ -160,41 +159,41 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgJ3ByZS1kZXBsb3knOiAnZ2l0IHB1bGwnLAo=</text>
+      <register name="*" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>布尔值true或者false</text>
+        <text>,</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHYuZ2V0KCdib2R5Lm9ubGluZScpICYmIHNldChjb25kaXRpb24sICdvbmxpbmUnLCB2LmdldCgnYm9keS5vbmxpbmUnKSkKICAgIHYuZ2V0KCdib2R5LmZvcmJpZGRlbicpICYmIHNldChjb25kaXRpb24sICdmb3JiaWRkZW4nLCB2LmdldCgnYm9keS5mb3JiaWRkZW4nKSkKICAgIHYuZ2V0KCdib2R5LmJsb2NrJykgJiYgc2V0KGNvbmRpdGlvbiwgJ2Jsb2NrJywgdi5nZXQoJ2JvZHkuYmxvY2snKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgJ3ByZS1kZXBsb3knOiAnZ2l0IHB1bGwnLAo=</text>
+        <text encoding="base64">ICAgIHZ1ZTogewogICAgICB1c2VyOiAncm9vdCcsCiAgICAgIGhvc3Q6ICc4LjEyOS4xODUuMTc4JywKICAgICAgcmVmOiAnb3JpZ2luL21hc3RlcicsCiAgICAgIHJlcG86ICdnaXRAZ2l0bGFiLmNvbTpsZWV5eWwvd2ViLmdpdCcsCiAgICAgIHBhdGg6ICcvcm9vdC9mc19kZXBsb3kvd2ViJywKICAgICAgJ3Bvc3QtZGVwbG95JzogJ3lhcm4gY29uZmlnIHNldCBpZ25vcmUtZW5naW5lcyB0cnVlICYmIHlhcm4gaW5zdGFsbCAmJiB5YXJuIGJ1aWxkJywKICAgICAgZW52OiB7CiAgICAgICAgTk9ERV9FTlY6ICdwcm9kdWN0aW9uJwogICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgJ3ByZS1kZXBsb3knOiAnZ2l0IHB1bGwnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LyoqCiAqIOi/h+a7pOWJjeWQjuerr+i3r+eUsQogKi8KZnVuY3Rpb24gZmlsdGVyUm91dGUoYXBwKSB7CiAgYXBwLnVzZShhc3luYyAoY3R4LCBuZXh0KSA9PiB7CiAgICAvLyDlpoLmnpzot6/nlLHku6UgJy92MScg5byA5aS077yM6L+b5YWl6Lev55Sx5Yy56YWNOyDlkKbliJnov5Tlm54gJ2luZGV4Lmh0bWwnCiAgICBpZiAoL15cL3YxLy50ZXN0KGN0eC51cmwpKSB7CiAgICAgIHJldHVybiBuZXh0KCkKICAgIH0KICAgIGN0eC50eXBlID0gJ2h0bWwnCiAgICBjdHguYm9keSA9IGZzLmNyZWF0ZVJlYWRTdHJlYW0ocGF0aC5qb2luKF9fZGlybmFtZSwgJy4uL3dlYi9kaXN0JywgJ2luZGV4Lmh0bWwnKSkKCiAgICBhd2FpdCBuZXh0KCkKICB9KQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgJ3ByZS1kZXBsb3knOiAnZ2l0IHB1bGwnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBmaWx0ZXJSb3V0ZShhcHApCg==</text>
+        <text encoding="base64">LyoqCiAqIOi/h+a7pOWJjeWQjuerr+i3r+eUsQogKi8KZnVuY3Rpb24gZmlsdGVyUm91dGUoYXBwKSB7CiAgYXBwLnVzZShhc3luYyAoY3R4LCBuZXh0KSA9PiB7CiAgICAvLyDlpoLmnpzot6/nlLHku6UgJy92MScg5byA5aS077yM6L+b5YWl6Lev55Sx5Yy56YWNOyDlkKbliJnov5Tlm54gJ2luZGV4Lmh0bWwnCiAgICBpZiAoL15cL3YxLy50ZXN0KGN0eC51cmwpKSB7CiAgICAgIHJldHVybiBuZXh0KCkKICAgIH0KICAgIGN0eC50eXBlID0gJ2h0bWwnCiAgICBjdHguYm9keSA9IGZzLmNyZWF0ZVJlYWRTdHJlYW0ocGF0aC5qb2luKF9fZGlybmFtZSwgJy4uL3dlYi9kaXN0JywgJ2luZGV4Lmh0bWwnKSkKCiAgICBhd2FpdCBuZXh0KCkKICB9KQp9Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhcHAudXNlKHNlcnZlKHBhdGguam9pbihfX2Rpcm5hbWUsICcuL2Rpc3QnKSkpCg==</text>
+        <text encoding="base64">ICBmaWx0ZXJSb3V0ZShhcHApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZW52X29ubGluZTogewogICAgICAgIE5PREVfRU5WOiAnb25saW5lJywKICAgICAgICBQT1JUOiA3MDAwCiAgICAgIH0sCg==</text>
+        <text encoding="base64">ICBhcHAudXNlKHNlcnZlKHBhdGguam9pbihfX2Rpcm5hbWUsICcuL2Rpc3QnKSkpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBOT0RFX0VOVjogJ29ubGluZScsCiAgICAgICAgUE9SVDogNzAwMAo=</text>
+        <text encoding="base64">ICAgICAgZW52X29ubGluZTogewogICAgICAgIE5PREVfRU5WOiAnb25saW5lJywKICAgICAgICBQT1JUOiA3MDAwCiAgICAgIH0sCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBOT0RFX0VOVjogJ3Byb2R1Y3Rpb24nLAogICAgICAgIFBPUlQ6IDUwMDAK</text>
+        <text encoding="base64">ICAgICAgICBOT0RFX0VOVjogJ29ubGluZScsCiAgICAgICAgUE9SVDogNzAwMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBOT0RFX0VOVjogJ29ubGluZScsCiAgICAgICAgUE9SVDogNzAwMAo=</text>
+        <text encoding="base64">ICAgICAgICBOT0RFX0VOVjogJ3Byb2R1Y3Rpb24nLAogICAgICAgIFBPUlQ6IDUwMDAK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
