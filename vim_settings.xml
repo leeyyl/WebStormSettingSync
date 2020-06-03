@@ -88,11 +88,13 @@
       <file name="/" timestamp="1590485253391">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591169418071">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="o" line="33" column="46" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591172128655">
+        <mark key="'" line="27" column="9" />
+        <mark key="[" line="27" column="16" />
+        <mark key="]" line="27" column="18" />
+        <mark key="." line="27" column="17" />
+        <mark key="^" line="27" column="18" />
+        <mark key="o" line="34" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1591169496110">
         <mark key="[" line="2" column="7" />
@@ -143,6 +145,7 @@
       <jump line="13" column="37" filename="$USER_HOME$/Desktop/bff/app/extensions/schedule/hour.js" />
       <jump line="32" column="3" filename="$USER_HOME$/Desktop/bff/ecosystem.config.js" />
       <jump line="22" column="38" filename="$USER_HOME$/Desktop/bff/app/libs/redis-cache.js" />
+      <jump line="27" column="9" filename="$USER_HOME$/Desktop/bff/app/api/v1/home.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
