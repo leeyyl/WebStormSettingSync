@@ -48,15 +48,10 @@
       <file name="/fragment.js" timestamp="1591238153006">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1591169241297">
-        <mark key="[" line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/config/log.js" timestamp="1591003558387">
-        <mark key="[" line="7" column="20" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1591169543445">
         <mark key="[" line="5" column="7" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/dao/admin.js" timestamp="1591243734902" />
       <file name="/JavaScript Console" timestamp="1591236766727">
         <mark key="[" line="0" column="0" />
       </file>
@@ -65,18 +60,15 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/ecosystem.config.js" timestamp="1591078577487">
-        <mark key="'" line="32" column="3" />
-        <mark key="[" line="30" column="22" />
-        <mark key="]" line="47" column="5" />
-        <mark key="." line="47" column="5" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/user.js" timestamp="1591237929826">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
       <file name="/home.js" timestamp="1591173079075" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/admin.js" timestamp="1591244464423">
+        <mark key="[" line="17" column="15" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/excel.js" timestamp="1591169567428">
         <mark key="[" line="5" column="7" />
       </file>
@@ -119,6 +111,7 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="0" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/validators/admin.js" timestamp="1591244171799" />
     </filemarks>
     <jumps>
       <jump line="35" column="14" filename="$USER_HOME$/Desktop/fengshen/app.js" />
