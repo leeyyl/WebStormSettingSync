@@ -41,13 +41,6 @@
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/server.js" timestamp="1591266154387">
         <mark key="[" line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/libs/redis-cache.js" timestamp="1591180990280">
-        <mark key="'" line="22" column="38" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-        <mark key="^" line="29" column="25" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/starter.js" timestamp="1591256515612">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -64,6 +57,7 @@
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1591258263334">
         <mark key="[" line="9" column="22" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/validators/user.js" timestamp="1591333572940" />
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1591188055774">
         <mark key="[" line="74" column="39" />
         <mark key="]" line="8" column="0" />
@@ -93,7 +87,7 @@
         <mark key="." line="174" column="0" />
         <mark key="^" line="174" column="74" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591331016857">
+      <file name="/JavaScript Console" timestamp="1591333430867">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/daily.js" timestamp="1591235906637">
