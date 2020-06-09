@@ -71,11 +71,11 @@
       <file name="$USER_HOME$/Desktop/bff/app/config/setting.js" timestamp="1591256574932">
         <mark key="[" line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/admin.js" timestamp="1591599462737">
-        <mark key="[" line="31" column="38" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="45" column="9" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/admin.js" timestamp="1591669689137">
+        <mark key="[" line="401" column="5" />
+        <mark key="]" line="402" column="6" />
+        <mark key="." line="402" column="5" />
+        <mark key="^" line="402" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591265098072">
         <mark key="[" line="50" column="19" />
@@ -89,7 +89,7 @@
         <mark key="." line="174" column="0" />
         <mark key="^" line="174" column="74" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591666663793">
+      <file name="/JavaScript Console" timestamp="1591667408858">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/daily.js" timestamp="1591235906637">
@@ -99,8 +99,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/admin.js" timestamp="1591667254216">
         <mark key="[" line="72" column="9" />
-        <mark key="]" line="76" column="33" />
-        <mark key="." line="76" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/user.js" timestamp="1591267304420">
         <mark key="[" line="36" column="16" />
