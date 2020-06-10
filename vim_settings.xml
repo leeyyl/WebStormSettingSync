@@ -46,8 +46,8 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1591610850344">
-        <mark key="[" line="0" column="1" />
+      <file name="/fragment.js" timestamp="1591773091161">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1591342759327">
         <mark key="[" line="2" column="27" />
@@ -85,13 +85,11 @@
       <file name="$USER_HOME$/Desktop/bff/app/dao/user.js" timestamp="1591686853844">
         <mark key="[" line="191" column="23" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591686209779">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/middleware/jwt.js" timestamp="1591773156761">
+        <mark key="'" line="114" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/daily.js" timestamp="1591235906637">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="/JavaScript Console" timestamp="1591772531374">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1591683947553">
         <mark key="[" line="107" column="15" />
@@ -151,6 +149,7 @@
       <jump line="22" column="38" filename="$USER_HOME$/Desktop/bff/app/libs/redis-cache.js" />
       <jump line="27" column="9" filename="$USER_HOME$/Desktop/bff/app/api/v1/home.js" />
       <jump line="11" column="9" filename="$USER_HOME$/Desktop/bff/app/api/v1/admin.js" />
+      <jump line="114" column="47" filename="$USER_HOME$/Desktop/bff/app/middleware/jwt.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
