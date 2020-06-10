@@ -85,8 +85,9 @@
       <file name="$USER_HOME$/Desktop/bff/app/dao/user.js" timestamp="1591686853844">
         <mark key="[" line="191" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/middleware/jwt.js" timestamp="1591773156761">
-        <mark key="'" line="114" column="47" />
+      <file name="$USER_HOME$/Desktop/bff/app/middleware/jwt.js" timestamp="1591773574785">
+        <mark key="'" line="106" column="47" />
+        <mark key="[" line="144" column="8" />
       </file>
       <file name="/JavaScript Console" timestamp="1591772531374">
         <mark key="[" line="0" column="0" />
