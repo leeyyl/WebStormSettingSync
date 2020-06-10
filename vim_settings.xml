@@ -46,7 +46,7 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1591773091161">
+      <file name="/fragment.js" timestamp="1591774376247">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1591342759327">
@@ -85,11 +85,11 @@
       <file name="$USER_HOME$/Desktop/bff/app/dao/user.js" timestamp="1591686853844">
         <mark key="[" line="191" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/middleware/jwt.js" timestamp="1591773574785">
-        <mark key="'" line="106" column="47" />
-        <mark key="[" line="144" column="8" />
+      <file name="$USER_HOME$/Desktop/bff/app/middleware/jwt.js" timestamp="1591775250255">
+        <mark key="'" line="107" column="47" />
+        <mark key="[" line="105" column="53" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591772531374">
+      <file name="/JavaScript Console" timestamp="1591775088523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1591683947553">
