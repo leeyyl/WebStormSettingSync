@@ -41,12 +41,14 @@
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/server.js" timestamp="1591684096601">
         <mark key="[" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/libs/redis-cache.js" timestamp="1591842722960" />
+      <file name="$USER_HOME$/Desktop/bff/app/libs/redis-cache.js" timestamp="1591848523871">
+        <mark key="[" line="22" column="40" />
+      </file>
       <file name="/fragment.js" timestamp="1591774376247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1591846208811">
-        <mark key="[" line="102" column="18" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1591848962232">
+        <mark key="[" line="84" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/role.js" timestamp="1591775635226">
         <mark key="[" line="20" column="15" />
