@@ -41,31 +41,17 @@
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/server.js" timestamp="1591684096601">
         <mark key="[" line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/starter.js" timestamp="1591256515612">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/libs/redis-cache.js" timestamp="1591842722960" />
       <file name="/fragment.js" timestamp="1591774376247">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1591342759327">
-        <mark key="[" line="2" column="27" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
-        <mark key="^" line="80" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1591775780566">
         <mark key="[" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/user.js" timestamp="1591771460566" />
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/role.js" timestamp="1591775635226">
         <mark key="[" line="20" column="15" />
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/config/setting.js" timestamp="1591256574932">
-        <mark key="[" line="10" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1591775578250">
         <mark key="[" line="20" column="15" />
@@ -76,17 +62,22 @@
         <mark key="." line="402" column="5" />
         <mark key="^" line="402" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591683804690">
+      <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1591842777539" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591843217498">
         <mark key="[" line="22" column="15" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
         <mark key="o" line="34" column="46" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1591843373436">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/user.js" timestamp="1591686853844">
         <mark key="[" line="191" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/middleware/jwt.js" timestamp="1591775250255" />
-      <file name="/JavaScript Console" timestamp="1591775815734">
+      <file name="/JavaScript Console" timestamp="1591840954101">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1591775531777">
@@ -153,7 +144,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dpblJlcXVpcmVkLAo=</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -162,31 +153,31 @@
         <text encoding="base64">ICAgICAgICByZWRpc0FwaUNhY2hlLmNsZWFyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBsb2dpblJlcXVpcmVkLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIFtmYWxzZSwgJ+avj+S4qmlk5YC85b+F6aG75Li65q2j5pW05pWwJ10K</text>
+        <text encoding="base64">ICBsb2dpblJlcXVpcmVkLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvdW50ID0gZGF0YS5ib2R5LmNvdW50Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgbG9naW5SZXF1aXJlZCB9IGZyb20gJy4uLy4uL21pZGRsZXdhcmUvand0Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA4Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcmVkaXNBcGlDYWNoZSB9IGZyb20gJy4uLy4uL2xpYnMvcmVkaXMtY2FjaGUnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA2Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIFtmYWxzZSwgJ+avj+S4qmlk5YC85b+F6aG75Li65q2j5pW05pWwJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA2Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvdW50ID0gZGF0YS5ib2R5LmNvdW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA1Cg==</text>
+        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiAxMwo=</text>
+        <text encoding="base64">ICAgICAgZXJyb3JDb2RlOiA3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
