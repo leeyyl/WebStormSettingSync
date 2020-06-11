@@ -38,7 +38,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/app/libs/redis-cache.js" timestamp="1591867662631">
+      <file name="$USER_HOME$/Desktop/bff/app/libs/redis-cache.js" timestamp="1591871280263">
         <mark key="[" line="2" column="15" />
       </file>
       <file name="/fragment.js" timestamp="1591774376247">
@@ -50,7 +50,7 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/node_modules/@pengqiangsheng/apicache/src/koa-apicache.js" timestamp="1591868466178" />
+      <file name="$USER_HOME$/Desktop/bff/node_modules/@pengqiangsheng/apicache/src/koa-apicache.js" timestamp="1591871272766" />
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1591775578250">
         <mark key="[" line="20" column="15" />
       </file>
