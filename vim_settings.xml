@@ -47,6 +47,12 @@
       <file name="/fragment.js" timestamp="1591774376247">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1591860418040">
+        <mark key="[" line="22" column="15" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
+        <mark key="^" line="80" column="16" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1591852960775">
         <mark key="[" line="31" column="18" />
         <mark key="]" line="33" column="0" />
@@ -86,9 +92,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1591775531777">
         <mark key="[" line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/admin.js" timestamp="1591667254216">
-        <mark key="[" line="72" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/log.js" timestamp="1591683914442">
         <mark key="[" line="19" column="15" />
