@@ -45,8 +45,8 @@
       <file name="/fragment.js" timestamp="1591774376247">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1591775780566">
-        <mark key="[" line="9" column="22" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/channel.js" timestamp="1591846208811">
+        <mark key="[" line="102" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/role.js" timestamp="1591775635226">
         <mark key="[" line="20" column="15" />
@@ -63,14 +63,14 @@
         <mark key="^" line="402" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1591842777539" />
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591843217498">
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591844397191">
         <mark key="[" line="22" column="15" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
         <mark key="o" line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1591843373436">
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1591845124686">
+        <mark key="[" line="21" column="25" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
       </file>
