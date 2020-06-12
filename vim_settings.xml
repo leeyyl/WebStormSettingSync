@@ -50,7 +50,7 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/node_modules/@pengqiangsheng/apicache/src/koa-apicache.js" timestamp="1591871272766" />
+      <file name="$USER_HOME$/Desktop/bff/node_modules/@pengqiangsheng/apicache/src/koa-apicache.js" timestamp="1591873021520" />
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1591775578250">
         <mark key="[" line="20" column="15" />
       </file>
@@ -63,6 +63,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/daily.js" timestamp="1591866403313">
         <mark key="[" line="11" column="23" />
+      </file>
+      <file name="internal/inspector_async_hook.js" timestamp="1591873181026">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/user.js" timestamp="1591684543064">
         <mark key="[" line="151" column="15" />
@@ -95,9 +98,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/report.js" timestamp="1591775531777">
         <mark key="[" line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/log.js" timestamp="1591683914442">
-        <mark key="[" line="19" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1591775697149">
         <mark key="'" line="40" column="10" />
