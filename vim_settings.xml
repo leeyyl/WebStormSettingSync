@@ -51,8 +51,8 @@
         <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/node_modules/@pengqiangsheng/apicache/src/koa-apicache.js" timestamp="1591873021520" />
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1591775578250">
-        <mark key="[" line="20" column="15" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1591928727112">
+        <mark key="[" line="62" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1591842777539" />
       <file name="$USER_HOME$/Desktop/bff/app/dao/user.js" timestamp="1591686853844">
@@ -66,11 +66,6 @@
       </file>
       <file name="internal/inspector_async_hook.js" timestamp="1591873181026">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/user.js" timestamp="1591684543064">
-        <mark key="[" line="151" column="15" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1591926871523">
         <mark key="[" line="0" column="0" />
@@ -86,6 +81,7 @@
         <mark key="]" line="179" column="0" />
         <mark key="." line="179" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1591928618738" />
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591927699853">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="2" column="0" />
