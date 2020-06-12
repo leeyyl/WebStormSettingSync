@@ -57,10 +57,12 @@
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1591928727112">
         <mark key="[" line="62" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/statistics-props.js" timestamp="1591948963645">
-        <mark key="[" line="6" column="13" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/statistics-props.js" timestamp="1591950532240">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591927035399">
+      <file name="/JavaScript Console" timestamp="1591950579495">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/daily.js" timestamp="1591946091995">
@@ -78,18 +80,18 @@
       <file name="$USER_HOME$/Desktop/bff/app/models/props.js" timestamp="1591943613203">
         <mark key="[" line="46" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1591943368837">
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="35" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1591950766968">
+        <mark key="[" line="21" column="10" />
+        <mark key="]" line="22" column="0" />
         <mark key="^" line="33" column="43" />
-        <mark key="." line="35" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1591927699853">
         <mark key="[" line="60" column="21" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1591942907600">
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1591950893692">
         <mark key="[" line="87" column="65" />
         <mark key="]" line="91" column="0" />
         <mark key="." line="91" column="0" />
@@ -143,7 +145,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGlmIChhZGQubGVuZ3RoID4gMCkgewogICAgICBhd2FpdCBTdGF0UHJvcHNNb2RlbC5idWxrQ3JlYXRlKGFkZCwgewogICAgICAgIHVwZGF0ZU9uRHVwbGljYXRlOiBbJ251bSddCiAgICAgIH0pCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlczogWydjaGFubmVsJywgJ3Byb3BfaWQnLCBbc2VxdWVsaXplLmZuKCdTVU0nLCBzZXF1ZWxpemUuY29sKCdudW1iZXInKSksICdudW1iZXInXV0sCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -152,31 +154,31 @@
         <text encoding="base64">ICAgICAgICByZWRpc0FwaUNhY2hlLmNsZWFyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGlmIChhZGQubGVuZ3RoID4gMCkgewogICAgICBhd2FpdCBTdGF0UHJvcHNNb2RlbC5idWxrQ3JlYXRlKGFkZCwgewogICAgICAgIHVwZGF0ZU9uRHVwbGljYXRlOiBbJ251bSddCiAgICAgIH0pCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgYXR0cmlidXRlczogWydjaGFubmVsJywgJ3Byb3BfaWQnLCBbc2VxdWVsaXplLmZuKCdTVU0nLCBzZXF1ZWxpemUuY29sKCdudW1iZXInKSksICdudW1iZXInXV0sCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlkOiB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5JTlRFR0VSLAogICAgICBhdXRvSW5jcmVtZW50OiB0cnVlCiAgICB9LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoNiA9PT0gb3BlcmF0b3IpIHsK</text>
+        <text encoding="base64">ICAgICAgYWxsb3dOdWxsOiBmYWxzZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBzdGF0aWMgYXN5bmMgc3VidHJhY3RQcm9wcyhzdGFydCwgZW5kKSB7CiAgICBjb25zdCBjb3N0ID0gYXdhaXQgUHJvcHNNb2RlbC5maW5kQWxsKHsKICAgICAgYXR0cmlidXRlczogWydzZXJ2ZXInLCAncHJvcF9pZCcsIFtzZXF1ZWxpemUuZm4oJ1NVTScsIHNlcXVlbGl6ZS5jb2woJ251bWJlcicpKSwgJ251bSddXSwKICAgICAgd2hlcmU6IHsKICAgICAgICBvcGVyYXRvcjogNSwKICAgICAgICBjcmVhdGVfdGltZTogewogICAgICAgICAgW09wLmJldHdlZW5dOiBbc3RhcnQsIGVuZF0KICAgICAgICB9CiAgICAgIH0sCiAgICAgIGdyb3VwOiBbJ3NlcnZlcicsICdwcm9wX2lkJ10sCiAgICAgIHJhdzogdHJ1ZQogICAgfSkKICAgIGNvc3QubWFwKChpdGVtKSA9PiB7CiAgICAgIGl0ZW0ubnVtYmVyID0gJy0nICsgaXRlbS5udW1iZXIKICAgIH0pCiAgICBpZiAoY29zdC5sZW5ndGggPiAwKSB7CiAgICAgIGF3YWl0IFN0YXRQcm9wc01vZGVsLmJ1bGtDcmVhdGUoY29zdCwgewogICAgICAgIHVwZGF0ZU9uRHVwbGljYXRlOiBbJ2xldmVsJ10KICAgICAgfSkKICAgIH0KICB9Cgo=</text>
+        <text encoding="base64">ICAgICAgYWxsb3dOdWxsOiBmYWxzZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHJpbWFyeUtleTogdHJ1ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpdGVtLm51bSA9IHJlc3VsdC5udW0gKyBpdGVtLm51bQo=</text>
+        <text encoding="base64">ICAgIGlkOiB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5JTlRFR0VSLAogICAgICBwcmltYXJ5S2V5OiB0cnVlLAogICAgICBhdXRvSW5jcmVtZW50OiB0cnVlCiAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhZGQubGVuZ3RoID4gMCkgewogICAgICBhd2FpdCBTdGF0UHJvcHNNb2RlbC5idWxrQ3JlYXRlKGFkZCwgewogICAgICAgIHVwZGF0ZU9uRHVwbGljYXRlOiBbJ251bSddCiAgICAgIH0pCiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocGFyc2VJbnQoaXRlbS5udW1iZXIpID4gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAwOyBpIDwgcmVzdWx0WzFdLmxlbmd0aDsgaSsrKSB7CiAgICAgIGlmIChpICUgMikgewogICAgICAgIGNvbnN0IGl0ZW0gPSBKU09OLnBhcnNlKHJlc3VsdFsxXVtpXSkKICAgICAgICBpdGVtcy5wdXNoKGl0ZW0pCiAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBpZiAoNiA9PT0gb3BlcmF0b3IpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
