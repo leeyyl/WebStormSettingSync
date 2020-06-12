@@ -91,10 +91,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1591936043718">
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/hero-item.js" timestamp="1591937966863">
         <mark key="[" line="73" column="1" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="]" line="97" column="26" />
+        <mark key="." line="97" column="25" />
+        <mark key="^" line="97" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/hour.js" timestamp="1591930734354" />
       <file name="$USER_HOME$/Desktop/bff/app/models/level.js" timestamp="1591932671409" />
