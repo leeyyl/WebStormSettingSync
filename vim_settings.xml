@@ -74,7 +74,9 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1592204189915" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1592289577534">
+        <mark key="[" line="33" column="46" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/server.js" timestamp="1592278489403">
         <mark key="[" line="21" column="47" />
         <mark key="]" line="25" column="0" />
