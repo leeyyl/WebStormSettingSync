@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recharge" />
+      <item value="福利" />
       <item value="减法" />
       <item value="reentrant" />
       <item value="re" />
@@ -50,7 +52,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="7" />
+        <entry key="CHINESE" value="8" />
         <entry key="ENGLISH" value="8" />
       </map>
     </option>
