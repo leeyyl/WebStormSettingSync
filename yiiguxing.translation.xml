@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="激活码" />
       <item value="审核列表" />
       <item value="操作" />
       <item value="提交" />
@@ -50,7 +51,6 @@
       <item value="组装数据" />
       <item value="组装" />
       <item value="突破石" />
-      <item value="玄晶" />
     </histories>
     <option name="languageScores">
       <map>
