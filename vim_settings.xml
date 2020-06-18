@@ -75,10 +75,10 @@
       <file name="/Dummy.txt" timestamp="1592458365153">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1592461586612">
-        <mark key="[" line="26" column="43" />
-        <mark key="]" line="26" column="43" />
-        <mark key="." line="26" column="43" />
+      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1592462911946">
+        <mark key="[" line="22" column="16" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
         <mark key="^" line="25" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/game.js" timestamp="1592458170315">
@@ -158,40 +158,40 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="4">
-        <text>,</text>
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>{</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgc2V0IH0gZnJvbSAnbG9kYXNoJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCB2YWxpZERvbWFpbnMgPSBbXQo=</text>
+        <text encoding="base64">ICAgICAgb3JpZ2luOiAoY3R4KSA9PiB7CiAgICAgICAgaWYgKHByb2Nlc3MuZW52Lk5PREVfRU5WID09PSAncHJvZHVjdGlvbicpIHsKICAgICAgICAgIHJldHVybiAnaHR0cHM6Ly93d3cuc2VhaGVnYW1lLmNvbSBodHRwczovL3NlYWhlZ2FtZS5jb20nCiAgICAgICAgfQogICAgICAgIHJldHVybiB2YWxpZERvbWFpbnNbMF0KICAgICAgfQogICAgfSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCB2YWxpZERvbWFpbnMgPSBbXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBhcHAudXNlKAogICAgY29ycyh7CiAgICAgIG9yaWdpbihjdHgpIHsKICAgICAgICBpZiAoY3R4LnJlcXVlc3QuaGVhZGVyLm9yaWdpbiA9PT0gJ2h0dHBzOi8vc2VhaGVnYW1lLmNvbScpIHsKICAgICAgICAgIHJldHVybiAnaHR0cHM6Ly93d3cuc2VhaGVnYW1lLmNvbScKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGN0eC5yZXF1ZXN0LmhlYWRlci5vcmlnaW4KICAgICAgfQogICAgfSkKICAp</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBhcHAudXNlKAogICAgY29ycyh7CiAgICAgIG9yaWdpbihjdHgpIHsKICAgICAgICBpZiAoY3R4LnJlcXVlc3QuaGVhZGVyLm9yaWdpbiA9PT0gJ2h0dHBzOi8vc2VhaGVnYW1lLmNvbScpIHsKICAgICAgICAgIHJldHVybiAnaHR0cHM6Ly93d3cuc2VhaGVnYW1lLmNvbScKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGN0eC5yZXF1ZXN0LmhlYWRlci5vcmlnaW4KICAgICAgfQogICAgfSkKICAp</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gWydodHRwczovL3NlYWhlZ2FtZS5jb20nLCAnaHR0cHM6Ly93d3cuc2VhaGVnYW1lLmNvbSddCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoY3R4LnVybCA9PT0gJy9mb3JiaW4nKSB7CiAgICAgICAgICByZXR1cm4gZmFsc2UKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gWydodHRwczovL3NlYWhlZ2FtZS5jb20nLCAnaHR0cHM6Ly93d3cuc2VhaGVnYW1lLmNvbSddCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQmxvY2tJUE1vZGVsIH0gZnJvbSAnLi4vbW9kZWxzL2Jsb2NrLWlwJwppbXBvcnQgeyBCbG9ja1JvbGVNb2RlbCB9IGZyb20gJy4uL21vZGVscy9ibG9jay1yb2xlJwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoY3R4LnVybCA9PT0gJy9mb3JiaW4nKSB7CiAgICAgICAgICByZXR1cm4gZmFsc2UKICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBhc3luYyBhdWRpdEVtYWlscyh2LCBpc1BlcnNvbmFsKSB7CiAgICBjb25zdCBzdGFydCA9IHYuZ2V0KCdxdWVyeS5wYWdlJykKICAgIGNvbnN0IGxpbWl0ID0gdi5nZXQoJ3F1ZXJ5LmxpbWl0JykKICAgIGNvbnN0IHsgcm93cywgY291bnQgfSA9IGF3YWl0IEF1ZGl0RW1haWxNb2RlbC5maW5kQW5kQ291bnRBbGwoewogICAgICB3aGVyZTogewogICAgICAgIHR5cGU6IGlzUGVyc29uYWwsCiAgICAgICAgc3RhdHVzOiB7CiAgICAgICAgICBbT3Aub3JdOiBbMCwgMV0KICAgICAgICB9CiAgICAgIH0sCiAgICAgIG9mZnNldDogKHN0YXJ0IC0gMSkgKiBsaW1pdCwKICAgICAgbGltaXQsCiAgICAgIG9yZGVyOiBbJ2NyZWF0ZV90aW1lJ10KICAgIH0pCiAgICByZXR1cm4gewogICAgICByb3dzLAogICAgICB0b3RhbDogY291bnQKICAgIH0KICB9Cgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQmxvY2tJUE1vZGVsIH0gZnJvbSAnLi4vbW9kZWxzL2Jsb2NrLWlwJwppbXBvcnQgeyBCbG9ja1JvbGVNb2RlbCB9IGZyb20gJy4uL21vZGVscy9ibG9jay1yb2xlJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhc3luYyBjcmVhdGVBbm5vdW5jZW1lbnQodiwgY2hhbm5lbCwgc3ViKSB7CiAgICBsZXQgdHJhbnNhY3Rpb24KICAgIHRyeSB7CiAgICAgIHRyYW5zYWN0aW9uID0gYXdhaXQgc2VxdWVsaXplLnRyYW5zYWN0aW9uKCkKICAgICAgYXdhaXQgQW5ub3VuY2VtZW50TW9kZWwuY3JlYXRlKAogICAgICAgIHsKICAgICAgICAgIHNlbmRlcjogdi5nZXQoJ2JvZHkuc2VuZGVyJyksCiAgICAgICAgICBjb250ZW50OiB2LmdldCgnYm9keS5jb250ZW50JyksCiAgICAgICAgICBmcmVxdWVuY3k6IHYuZ2V0KCdib2R5LmZyZXF1ZW5jeScpLAogICAgICAgICAgY2hhbm5lbCwKICAgICAgICAgIHN1Yl9jaGFubmVsOiBzdWIsCiAgICAgICAgICBzZXJ2ZXJzOiB2LmdldCgnYm9keS5zZXJ2ZXJzJyksCiAgICAgICAgICBwdWJsaXNoX3RpbWU6IHYuZ2V0KCdib2R5LnB1Ymxpc2hfdGltZScpLAogICAgICAgICAgdmFsaWQ6IHYuZ2V0KCdib2R5LnZhbGlkJykKICAgICAgICB9LAogICAgICAgIHsKICAgICAgICAgIHRyYW5zYWN0aW9uCiAgICAgICAgfQogICAgICApCiAgICAgIGF3YWl0IHRyYW5zYWN0aW9uLmNvbW1pdCgpCiAgICB9IGNhdGNoIChlcnIpIHsKICAgICAgaWYgKHRyYW5zYWN0aW9uKSBhd2FpdCB0cmFuc2FjdGlvbi5yb2xsYmFjaygpCiAgICB9CiAgICByZXR1cm4gdHJ1ZQogIH0KCg==</text>
+        <text encoding="base64">ICBhc3luYyBhdWRpdEVtYWlscyh2LCBpc1BlcnNvbmFsKSB7CiAgICBjb25zdCBzdGFydCA9IHYuZ2V0KCdxdWVyeS5wYWdlJykKICAgIGNvbnN0IGxpbWl0ID0gdi5nZXQoJ3F1ZXJ5LmxpbWl0JykKICAgIGNvbnN0IHsgcm93cywgY291bnQgfSA9IGF3YWl0IEF1ZGl0RW1haWxNb2RlbC5maW5kQW5kQ291bnRBbGwoewogICAgICB3aGVyZTogewogICAgICAgIHR5cGU6IGlzUGVyc29uYWwsCiAgICAgICAgc3RhdHVzOiB7CiAgICAgICAgICBbT3Aub3JdOiBbMCwgMV0KICAgICAgICB9CiAgICAgIH0sCiAgICAgIG9mZnNldDogKHN0YXJ0IC0gMSkgKiBsaW1pdCwKICAgICAgbGltaXQsCiAgICAgIG9yZGVyOiBbJ2NyZWF0ZV90aW1lJ10KICAgIH0pCiAgICByZXR1cm4gewogICAgICByb3dzLAogICAgICB0b3RhbDogY291bnQKICAgIH0KICB9Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
