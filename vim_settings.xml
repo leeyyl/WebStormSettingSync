@@ -57,6 +57,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/fragment.js" timestamp="1592534371260">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/activation.js" timestamp="1592481369612">
         <mark key="[" line="0" column="27" />
         <mark key="]" line="4" column="0" />
@@ -103,9 +106,9 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/admin.js" timestamp="1592476813073">
         <mark key="[" line="68" column="49" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1592533387377">
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1592534006758">
         <mark key="'" line="39" column="10" />
-        <mark key="[" line="378" column="52" />
+        <mark key="[" line="379" column="53" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
         <mark key="^" line="76" column="27" />
