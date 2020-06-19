@@ -108,8 +108,10 @@
         <mark key="." line="32" column="5" />
         <mark key="^" line="32" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1592548203325">
-        <mark key="[" line="74" column="63" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1592552091441">
+        <mark key="[" line="98" column="60" />
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1592550718799">
         <mark key="[" line="0" column="0" />
@@ -165,42 +167,42 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGFjdGl2YXRpb25zLm1hcCgoYWN0aXZhdGlvbikgPT4gewogICAgICByZXR1cm4geyBjb2RlOiBhY3RpdmF0aW9uIH0KICAgIH0pCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gW10K</text>
       </register>
       <register name="-" type="4">
-        <text>isNot</text>
+        <text>t</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgc2V0IH0gZnJvbSAnbG9kYXNoJwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gW10K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgaWYgKHByb2R1Y3RzLmxlbmd0aCA9PT0gMCkgewogICAgICB9IGVsc2Ugewo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5wdXNoKHsgaWQ6IHJlY2hhcmdlSWQsIG51bTogcGFyc2VJbnQocmVjaGFyZ2UubnVtKSB9KQogICAgICAgIGluZm9bcGxheWVySWRdID0gcHJvZHVjdHMK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBCb29sZWFuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgY29uc3QgcHJvZHVjdHMgPSBpbmZvW3BsYXllcklkXSB8fCBbXQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcHJvZHVjdHMucHVzaCh7IGlkIH0pCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGFjdGl2YXRpb25zLm1hcCgoYWN0aXZhdGlvbikgPT4gewogICAgICByZXR1cm4geyBjb2RlOiBhY3RpdmF0aW9uIH0KICAgIH0pCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="9" type="4">
         <text>success({
       msg: '生成激活码成功'
     })</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG51bSA9IHYuZ2V0KCdib2R5Lm51bScpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gSlNPTi5wYXJzZSh2LmdldCgnYm9keS5pZHMnKSkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXR1cyA9IHYuZ2V0KCdib2R5LnN0YXR1cycpCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VydmVyID0gbmV3IFJ1bGUoJycpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CiAgYXN5bmMgcXVlcnlQbGF5ZXJJbmZvKHYpIHsKICAgIGNvbnN0IHN0YXJ0ID0gdi5nZXQoJ3F1ZXJ5LnBhZ2UnKQogICAgY29uc3QgbGltaXQgPSB2LmdldCgncXVlcnkubGltaXQnKQogICAgY29uc3QgY29uZGl0aW9uID0ge30KICAgIHYuZ2V0KCdxdWVyeS5vcGVyYXRvcicpICYmIHNldChjb25kaXRpb24sICdvcGVyYXRvcicsIHYuZ2V0KCdxdWVyeS5vcGVyYXRvcicpKQogICAgdi5nZXQoJ3F1ZXJ5LnNlcnZlcicpICYmIHNldChjb25kaXRpb24sICdpcCcsIHYuZ2V0KCdxdWVyeS5zZXJ2ZXInKSkKICAgIGNvbnN0IHsgcm93cywgY291bnQgfSA9IGF3YWl0IEJsb2NrSVBNb2RlbC5maW5kQW5kQ291bnRBbGwoewogICAgICB3aGVyZTogT2JqZWN0LmFzc2lnbih7fSwgY29uZGl0aW9uKSwKICAgICAgb2Zmc2V0OiAoc3RhcnQgLSAxKSAqIGxpbWl0LAogICAgICBsaW1pdCwKICAgICAgb3JkZXI6IFsndXBkYXRlX3RpbWUnXQogICAgfSkKICAgIHJldHVybiB7CiAgICAgIHJvd3MsCiAgICAgIHRvdGFsOiBjb3VudAogICAgfQogIH0K</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcXVlcnlQbGF5ZXJJbmZvIH0gZnJvbSAnLi4vbGlicy9odHRwJwo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgcmVjaGFyZ2VfaWQ6IHJlY2hhcmdlSWRzCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
