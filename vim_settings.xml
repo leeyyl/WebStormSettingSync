@@ -102,18 +102,18 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1592476769379">
         <mark key="[" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592549277520">
-        <mark key="[" line="3" column="30" />
-        <mark key="]" line="32" column="6" />
-        <mark key="." line="32" column="5" />
-        <mark key="^" line="32" column="6" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592552393228">
+        <mark key="[" line="45" column="6" />
+        <mark key="]" line="33" column="6" />
+        <mark key="." line="33" column="5" />
+        <mark key="^" line="33" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1592552091441">
         <mark key="[" line="98" column="60" />
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592550718799">
+      <file name="/JavaScript Console" timestamp="1592552487979">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1592483567346">
