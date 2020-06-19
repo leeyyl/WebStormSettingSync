@@ -33,6 +33,12 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -57,13 +63,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1592536336120">
+      <file name="/fragment.js" timestamp="1592549923649">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/activation.js" timestamp="1592547225747">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/activation.js" timestamp="1592550019682">
+        <mark key="[" line="61" column="8" />
+        <mark key="]" line="61" column="8" />
+        <mark key="." line="61" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/activation.js" timestamp="1592547413220">
         <mark key="[" line="6" column="13" />
@@ -96,11 +102,11 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1592476769379">
         <mark key="[" line="5" column="53" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592477390700">
-        <mark key="[" line="15" column="6" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="6" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592549277520">
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="32" column="6" />
+        <mark key="." line="32" column="5" />
+        <mark key="^" line="32" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1592548203325">
         <mark key="[" line="74" column="63" />
@@ -158,8 +164,10 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gSlNPTi5wYXJzZSh2LmdldCgnYm9keS5pZHMnKSkK</text>
+      <register name="*" type="4">
+        <text>success({
+      msg: '生成激活码成功'
+    })</text>
       </register>
       <register name="-" type="4">
         <text>isNot</text>
@@ -167,32 +175,34 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgc2V0IH0gZnJvbSAnbG9kYXNoJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gSlNPTi5wYXJzZSh2LmdldCgnYm9keS5pZHMnKSkK</text>
+      <register name="1" type="4">
+        <text>success({
+      msg: '生成激活码成功'
+    })</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHN0YXR1cyA9IHYuZ2V0KCdib2R5LnN0YXR1cycpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG51bSA9IHYuZ2V0KCdib2R5Lm51bScpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2VydmVyID0gbmV3IFJ1bGUoJycpCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gSlNPTi5wYXJzZSh2LmdldCgnYm9keS5pZHMnKSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgYXN5bmMgcXVlcnlQbGF5ZXJJbmZvKHYpIHsKICAgIGNvbnN0IHN0YXJ0ID0gdi5nZXQoJ3F1ZXJ5LnBhZ2UnKQogICAgY29uc3QgbGltaXQgPSB2LmdldCgncXVlcnkubGltaXQnKQogICAgY29uc3QgY29uZGl0aW9uID0ge30KICAgIHYuZ2V0KCdxdWVyeS5vcGVyYXRvcicpICYmIHNldChjb25kaXRpb24sICdvcGVyYXRvcicsIHYuZ2V0KCdxdWVyeS5vcGVyYXRvcicpKQogICAgdi5nZXQoJ3F1ZXJ5LnNlcnZlcicpICYmIHNldChjb25kaXRpb24sICdpcCcsIHYuZ2V0KCdxdWVyeS5zZXJ2ZXInKSkKICAgIGNvbnN0IHsgcm93cywgY291bnQgfSA9IGF3YWl0IEJsb2NrSVBNb2RlbC5maW5kQW5kQ291bnRBbGwoewogICAgICB3aGVyZTogT2JqZWN0LmFzc2lnbih7fSwgY29uZGl0aW9uKSwKICAgICAgb2Zmc2V0OiAoc3RhcnQgLSAxKSAqIGxpbWl0LAogICAgICBsaW1pdCwKICAgICAgb3JkZXI6IFsndXBkYXRlX3RpbWUnXQogICAgfSkKICAgIHJldHVybiB7CiAgICAgIHJvd3MsCiAgICAgIHRvdGFsOiBjb3VudAogICAgfQogIH0K</text>
+        <text encoding="base64">ICAgIGNvbnN0IHN0YXR1cyA9IHYuZ2V0KCdib2R5LnN0YXR1cycpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgcXVlcnlQbGF5ZXJJbmZvIH0gZnJvbSAnLi4vbGlicy9odHRwJwo=</text>
+        <text encoding="base64">ICAgIHRoaXMuc2VydmVyID0gbmV3IFJ1bGUoJycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmVjaGFyZ2VfaWQ6IHJlY2hhcmdlSWRzCg==</text>
+        <text encoding="base64">CiAgYXN5bmMgcXVlcnlQbGF5ZXJJbmZvKHYpIHsKICAgIGNvbnN0IHN0YXJ0ID0gdi5nZXQoJ3F1ZXJ5LnBhZ2UnKQogICAgY29uc3QgbGltaXQgPSB2LmdldCgncXVlcnkubGltaXQnKQogICAgY29uc3QgY29uZGl0aW9uID0ge30KICAgIHYuZ2V0KCdxdWVyeS5vcGVyYXRvcicpICYmIHNldChjb25kaXRpb24sICdvcGVyYXRvcicsIHYuZ2V0KCdxdWVyeS5vcGVyYXRvcicpKQogICAgdi5nZXQoJ3F1ZXJ5LnNlcnZlcicpICYmIHNldChjb25kaXRpb24sICdpcCcsIHYuZ2V0KCdxdWVyeS5zZXJ2ZXInKSkKICAgIGNvbnN0IHsgcm93cywgY291bnQgfSA9IGF3YWl0IEJsb2NrSVBNb2RlbC5maW5kQW5kQ291bnRBbGwoewogICAgICB3aGVyZTogT2JqZWN0LmFzc2lnbih7fSwgY29uZGl0aW9uKSwKICAgICAgb2Zmc2V0OiAoc3RhcnQgLSAxKSAqIGxpbWl0LAogICAgICBsaW1pdCwKICAgICAgb3JkZXI6IFsndXBkYXRlX3RpbWUnXQogICAgfSkKICAgIHJldHVybiB7CiAgICAgIHJvd3MsCiAgICAgIHRvdGFsOiBjb3VudAogICAgfQogIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ3JlYXRlUGxhdGZvcm1WYWxpZGF0b3IgfSBmcm9tICcuLi8uLi92YWxpZGF0b3JzL2NoYW5uZWwnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgcXVlcnlQbGF5ZXJJbmZvIH0gZnJvbSAnLi4vbGlicy9odHRwJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRm9yYmlkZGVuLCBOb3RGb3VuZCB9IGZyb20gJ2xpbi1taXphcicK</text>
+        <text encoding="base64">ICAgICAgcmVjaGFyZ2VfaWQ6IHJlY2hhcmdlSWRzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT3AgfSBmcm9tICdzZXF1ZWxpemUnCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQ3JlYXRlUGxhdGZvcm1WYWxpZGF0b3IgfSBmcm9tICcuLi8uLi92YWxpZGF0b3JzL2NoYW5uZWwnCg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
