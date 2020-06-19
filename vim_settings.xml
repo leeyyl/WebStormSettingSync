@@ -44,8 +44,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1592536709399">
-        <mark key="[" line="176" column="109" />
+      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1592559875887">
+        <mark key="[" line="62" column="17" />
         <mark key="]" line="143" column="23" />
         <mark key="." line="143" column="23" />
       </file>
@@ -54,9 +54,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/server.js" timestamp="1592476866021">
         <mark key="[" line="5" column="52" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/common.js" timestamp="1592476712141">
-        <mark key="[" line="18" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/activation.js" timestamp="1592550968064">
         <mark key="[" line="9" column="0" />
@@ -96,6 +93,7 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/recharge.js" timestamp="1592548177203">
         <mark key="[" line="5" column="74" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/node_modules/moment/moment.d.ts" timestamp="1592559475373" />
       <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592477405785">
         <mark key="[" line="23" column="5" />
       </file>
