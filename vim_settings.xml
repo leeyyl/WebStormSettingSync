@@ -39,6 +39,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -61,7 +64,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1592550754183">
+      <file name="/fragment.js" timestamp="1592562186541">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/activation.js" timestamp="1592550019682">
@@ -85,6 +88,10 @@
         <mark key="]" line="24" column="66" />
         <mark key="." line="24" column="66" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/game.js" timestamp="1592561985576" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/game-recharge.js" timestamp="1592561995838">
+        <mark key="[" line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/recharge.js" timestamp="1592548319545">
         <mark key="[" line="73" column="16" />
         <mark key="]" line="70" column="0" />
@@ -98,9 +105,6 @@
       <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592477405785">
         <mark key="[" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1592476769379">
-        <mark key="[" line="5" column="53" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592560258198">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
@@ -111,16 +115,13 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592560263774">
+      <file name="/JavaScript Console" timestamp="1592562118832">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1592483567346">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/admin.js" timestamp="1592476813073">
-        <mark key="[" line="68" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1592560731904">
         <mark key="'" line="39" column="10" />
@@ -164,8 +165,15 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="*" type="8">
+        <text>name
+name
+name
+name
+name
+name
+name
+name</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -173,32 +181,59 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgc2V0IH0gZnJvbSAnbG9kYXNoJwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="8">
+        <text>name
+name
+name
+name
+name
+name
+name
+name</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjb25zdCB0aW1lID0gTWF0aC5jZWlsKG1vbWVudCgpLmFkZChtaW51dGVzLCAnbWludXRlcycpLnZhbHVlT2YoKSAvIDEwMDApCg==</text>
+      <register name="2" type="8">
+        <text>name
+name
+name
+name
+name
+name
+name</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsYXllcl9uYW1lOiB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcoMzIpLAogICAgICBhbGxvd051bGw6IGZhbHNlCiAgICB9LAo=</text>
+      <register name="3" type="8">
+        <text>id
+id
+id
+id
+id
+id
+id
+id
+id
+id
+id
+id
+id
+id
+id</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcGxheWVyTmFtZTogdGhpcy5wbGF5ZXJfbmFtZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gW10K</text>
+        <text encoding="base64">ICBjb25zdCB0aW1lID0gTWF0aC5jZWlsKG1vbWVudCgpLmFkZChtaW51dGVzLCAnbWludXRlcycpLnZhbHVlT2YoKSAvIDEwMDApCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgIHBsYXllcl9uYW1lOiB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcoMzIpLAogICAgICBhbGxvd051bGw6IGZhbHNlCiAgICB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaWYgKHByb2R1Y3RzLmxlbmd0aCA9PT0gMCkgewogICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgcGxheWVyTmFtZTogdGhpcy5wbGF5ZXJfbmFtZSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5wdXNoKHsgaWQ6IHJlY2hhcmdlSWQsIG51bTogcGFyc2VJbnQocmVjaGFyZ2UubnVtKSB9KQogICAgICAgIGluZm9bcGxheWVySWRdID0gcHJvZHVjdHMK</text>
+        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCb29sZWFuCg==</text>
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
