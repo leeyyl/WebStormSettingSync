@@ -56,9 +56,6 @@
       <file name="/Dummy.txt" timestamp="1592563087922">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/server.js" timestamp="1592476866021">
-        <mark key="[" line="5" column="52" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/activation.js" timestamp="1592550968064">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -83,12 +80,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/tool.js" timestamp="1592476886228">
-        <mark key="[" line="5" column="72" />
-        <mark key="]" line="24" column="66" />
-        <mark key="." line="24" column="66" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/game.js" timestamp="1592561985576" />
       <file name="$USER_HOME$/Desktop/bff/app/models/game-recharge.js" timestamp="1592561995838">
         <mark key="[" line="14" column="4" />
       </file>
@@ -101,7 +92,7 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/recharge.js" timestamp="1592548177203">
         <mark key="[" line="5" column="74" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/node_modules/moment/moment.d.ts" timestamp="1592559475373" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1592877250642" />
       <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592477405785">
         <mark key="[" line="23" column="5" />
       </file>
@@ -115,7 +106,7 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592562118832">
+      <file name="/JavaScript Console" timestamp="1592877278616">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1592483567346">
@@ -123,6 +114,7 @@
         <mark key="]" line="258" column="0" />
         <mark key="." line="258" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/level.js" timestamp="1592876986366" />
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1592560731904">
         <mark key="'" line="39" column="10" />
         <mark key="[" line="379" column="53" />
