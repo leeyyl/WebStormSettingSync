@@ -80,6 +80,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/role.js" timestamp="1592879383037" />
       <file name="$USER_HOME$/Desktop/bff/app/models/game-recharge.js" timestamp="1592561995838">
         <mark key="[" line="14" column="4" />
       </file>
@@ -94,9 +95,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1592878553452">
         <mark key="[" line="31" column="91" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592477405785">
-        <mark key="[" line="23" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592560258198">
         <mark key="[" line="45" column="0" />
