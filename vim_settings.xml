@@ -101,10 +101,10 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1592552091441">
-        <mark key="[" line="98" column="60" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1592884425502">
+        <mark key="[" line="103" column="39" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1592877608781">
         <mark key="[" line="0" column="0" />
@@ -157,15 +157,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="8">
-        <text>name
-name
-name
-name
-name
-name
-name
-name</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgaWRzLnB1c2gocGFyc2VJbnQocmVjaGFyZ2UuaWQpKQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -173,26 +166,32 @@ name</text>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHsgc2V0IH0gZnJvbSAnbG9kYXNoJwo=</text>
       </register>
-      <register name="1" type="8">
-        <text>name
-name
-name
-name
-name
-name
-name
-name</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgaWRzLnB1c2gocGFyc2VJbnQocmVjaGFyZ2UuaWQpKQo=</text>
       </register>
-      <register name="2" type="8">
-        <text>name
-name
-name
-name
-name
-name
-name</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlkcyA9IFtdCg==</text>
       </register>
       <register name="3" type="8">
+        <text>name
+name
+name
+name
+name
+name
+name
+name</text>
+      </register>
+      <register name="4" type="8">
+        <text>name
+name
+name
+name
+name
+name
+name</text>
+      </register>
+      <register name="5" type="8">
         <text>id
 id
 id
@@ -209,23 +208,17 @@ id
 id
 id</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICBjb25zdCB0aW1lID0gTWF0aC5jZWlsKG1vbWVudCgpLmFkZChtaW51dGVzLCAnbWludXRlcycpLnZhbHVlT2YoKSAvIDEwMDApCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHBsYXllcl9uYW1lOiB7CiAgICAgIHR5cGU6IFNlcXVlbGl6ZS5TVFJJTkcoMzIpLAogICAgICBhbGxvd051bGw6IGZhbHNlCiAgICB9LAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgcGxheWVyTmFtZTogdGhpcy5wbGF5ZXJfbmFtZSwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHJlY2hhcmdlSWRzID0gW10K</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcGxheWVyTmFtZTogdGhpcy5wbGF5ZXJfbmFtZSwK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
