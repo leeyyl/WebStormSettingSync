@@ -73,6 +73,9 @@
       <file name="/JavaScript Console" timestamp="1592901411621">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/daily.js" timestamp="1592902529389">
+        <mark key="[" line="164" column="41" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/excel.js" timestamp="1592897171460">
         <mark key="[" line="88" column="75" />
         <mark key="]" line="189" column="0" />
@@ -83,6 +86,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1592897906651">
         <mark key="[" line="94" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/statistics.js" timestamp="1592902575866">
+        <mark key="[" line="89" column="16" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/role.js" timestamp="1592898941817">
         <mark key="[" line="112" column="55" />
@@ -99,11 +107,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/game-source.js" timestamp="1592895281526">
         <mark key="[" line="27" column="28" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592560258198">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/game.js" timestamp="1592898983967">
         <mark key="[" line="2" column="59" />
