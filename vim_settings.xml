@@ -92,7 +92,9 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/recharge.js" timestamp="1592548177203">
         <mark key="[" line="5" column="74" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1592877250642" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1592878553452">
+        <mark key="[" line="31" column="91" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592477405785">
         <mark key="[" line="23" column="5" />
       </file>
