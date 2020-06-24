@@ -47,13 +47,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1592982014184">
+      <file name="/fragment.js" timestamp="1592983651973">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1592981970691">
-        <mark key="[" line="212" column="24" />
-        <mark key="]" line="212" column="52" />
-        <mark key="." line="212" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1592983724488">
+        <mark key="[" line="242" column="69" />
+        <mark key="]" line="213" column="0" />
+        <mark key="." line="213" column="0" />
+        <mark key="^" line="214" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1592905714008">
         <mark key="[" line="109" column="6" />
@@ -173,7 +174,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoZGF5cy50aGlyZC5mb3JtYXQoJ1lZWVktTU0tREQnKSkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGF5ID0gZGF5c1trZXldLmZvcm1hdCgnWVlZWS1NTS1ERCcpCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -182,31 +183,31 @@
         <text encoding="base64">ICAgICAgYWxsb3dOdWxsOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoZGF5cy50aGlyZC5mb3JtYXQoJ1lZWVktTU0tREQnKSkK</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGF5ID0gZGF5c1trZXldLmZvcm1hdCgnWVlZWS1NTS1ERCcpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoZGF5cy5zZWNvbmQuZm9ybWF0KCdZWVlZLU1NLUREJykpCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoZGF5cy50aGlyZC5mb3JtYXQoJ1lZWVktTU0tREQnKSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoZGF5cy5maXJzdC5mb3JtYXQoJ1lZWVktTU0tREQnKSkK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoZGF5cy5zZWNvbmQuZm9ybWF0KCdZWVlZLU1NLUREJykpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgZGF5ID0gZGF5c1trZXldCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuZGVidWcoZGF5cy5maXJzdC5mb3JtYXQoJ1lZWVktTU0tREQnKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5kZWJ1ZyhkYXkuZm9ybWF0KCdZWVlZLU1NLUREJykpCg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgZGF5ID0gZGF5c1trZXldCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZvciAoY29uc3Qga2V5IGluIGRheXMpIHsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5kZWJ1ZyhkYXkuZm9ybWF0KCdZWVlZLU1NLUREJykpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZm9yIChjb25zdCBsb2dpbiBvZiBsb2dpbnMpIHsKICAgICAgICBpZiAobG9naW4uaG91ciA9PT0gaSkgewogICAgICAgICAgaG91cltpXSA9IHBhcnNlSW50KGxvZ2luLm51bSkKICAgICAgICAgIGJyZWFrCiAgICAgICAgfQogICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIGZvciAoY29uc3Qga2V5IGluIGRheXMpIHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGZpcnN0ID0gcmVzdWx0LmZpcnN0Cg==</text>
+        <text encoding="base64">ICAgICAgZm9yIChjb25zdCBsb2dpbiBvZiBsb2dpbnMpIHsKICAgICAgICBpZiAobG9naW4uaG91ciA9PT0gaSkgewogICAgICAgICAgaG91cltpXSA9IHBhcnNlSW50KGxvZ2luLm51bSkKICAgICAgICAgIGJyZWFrCiAgICAgICAgfQogICAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0IGxvZ2luTnVtID0gMAogICAgICAvLyBsZXQgbG9nb3V0TnVtID0gMAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IGZpcnN0ID0gcmVzdWx0LmZpcnN0Cg==</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
