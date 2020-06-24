@@ -47,7 +47,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1592906678844">
+      <file name="/fragment.js" timestamp="1592970029323">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1592968814568">
@@ -118,7 +118,7 @@
       <file name="$USER_HOME$/Desktop/bff/app/models/game-source.js" timestamp="1592895281526">
         <mark key="[" line="27" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1592968971726">
+      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1592970034577">
         <mark key="[" line="67" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/game.js" timestamp="1592906255620">
