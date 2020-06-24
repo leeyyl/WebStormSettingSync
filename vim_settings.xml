@@ -59,12 +59,15 @@
       <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1592905714008">
         <mark key="[" line="109" column="6" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592985210022">
+        <mark key="[" line="22" column="22" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1592896328283">
         <mark key="[" line="95" column="24" />
         <mark key="]" line="100" column="0" />
         <mark key="." line="100" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592983739331">
+      <file name="/JavaScript Console" timestamp="1592985272750">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/copy.js" timestamp="1592904690715">
@@ -78,6 +81,9 @@
         <mark key="]" line="168" column="41" />
         <mark key="^" line="167" column="33" />
         <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1592985963665">
+        <mark key="[" line="33" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/extensions/excel.js" timestamp="1592897171460">
         <mark key="[" line="88" column="75" />
@@ -106,11 +112,6 @@
         <mark key="." line="125" column="0" />
         <mark key="^" line="124" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/recharge.js" timestamp="1592893924661">
-        <mark key="[" line="89" column="6" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/props.js" timestamp="1592904542438">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="29" />
@@ -130,13 +131,6 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
         <mark key="^" line="33" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1592893128300">
-        <mark key="'" line="39" column="10" />
-        <mark key="[" line="379" column="53" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="76" column="27" />
       </file>
     </filemarks>
     <jumps>
