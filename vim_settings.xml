@@ -53,6 +53,9 @@
       <file name="/Dummy.txt" timestamp="1592995226856">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/config/secure.js" timestamp="1593314952065">
+        <mark key="[" line="28" column="10" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/login.js" timestamp="1592990572124">
         <mark key="[" line="28" column="22" />
       </file>
@@ -109,9 +112,6 @@
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/user-group.js" timestamp="1592989941730">
-        <mark key="[" line="23" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1592990680558">
         <mark key="[" line="56" column="0" />
