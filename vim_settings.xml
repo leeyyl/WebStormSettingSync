@@ -47,34 +47,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/app/models/statistics-props.js" timestamp="1592990652062">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592990748116">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/user-group.js" timestamp="1592989941730">
-        <mark key="[" line="23" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/block-ip.js" timestamp="1592990691204">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/log.js" timestamp="1592990555542">
         <mark key="[" line="37" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/props.js" timestamp="1592990437206">
-        <mark key="[" line="44" column="22" />
-        <mark key="]" line="7" column="29" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1592991072418">
-        <mark key="[" line="83" column="31" />
+      <file name="/Dummy.txt" timestamp="1592995226856">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/login.js" timestamp="1592990572124">
         <mark key="[" line="28" column="22" />
@@ -91,12 +68,35 @@
       <file name="$USER_HOME$/Desktop/bff/app/models/register.js" timestamp="1592990245864">
         <mark key="[" line="27" column="22" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/props.js" timestamp="1592990437206">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1592995116677">
         <mark key="[" line="159" column="49" />
         <mark key="]" line="161" column="0" />
         <mark key="." line="161" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592990773123">
+      <file name="$USER_HOME$/Desktop/bff/app/models/statistics-props.js" timestamp="1592990652062">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1592991072418">
+        <mark key="[" line="83" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592990748116">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592990765498">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1593309425161">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/user.js" timestamp="1592989960229">
@@ -110,6 +110,9 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/user-group.js" timestamp="1592989941730">
+        <mark key="[" line="23" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1592990680558">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
@@ -118,13 +121,10 @@
       <file name="$USER_HOME$/Desktop/bff/app/models/permission.js" timestamp="1592990518624">
         <mark key="[" line="72" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1592995226856">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592990765498">
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/models/block-ip.js" timestamp="1592990691204">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
       </file>
     </filemarks>
     <jumps>
