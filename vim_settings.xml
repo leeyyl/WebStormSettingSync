@@ -93,22 +93,22 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/permission.js" timestamp="1592990518624">
-        <mark key="[" line="72" column="22" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/block-ip.js" timestamp="1592990691204">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/log.js" timestamp="1592990555542">
-        <mark key="[" line="37" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1593334392340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/config/secure.js" timestamp="1593314952065">
         <mark key="[" line="28" column="10" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/validators/tool.js" timestamp="1593400312705">
+        <mark key="[" line="61" column="97" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/game.js" timestamp="1593318609615">
         <mark key="[" line="22" column="18" />
@@ -126,6 +126,11 @@
         <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/game.js" timestamp="1593324335985" />
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1593400524754">
+        <mark key="[" line="385" column="5" />
+        <mark key="]" line="384" column="0" />
+        <mark key="." line="384" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="35" column="14" filename="$USER_HOME$/Desktop/fengshen/app.js" />
@@ -162,7 +167,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIH0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>{</text>
@@ -171,35 +176,35 @@
         <text encoding="base64">ICAgICAgYWxsb3dOdWxsOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBsYXllcklkcyA9IFt2LmdldCgncXVlcnkucGxheWVyX2lkJyldCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRoaXMub3BlcmF0b3IgPSBuZXcgUnVsZSgnaXNOb3RFbXB0eScsICfmk43kvZzkurpvcGVyYXRvcuS4jeWPr+S4uuepuicpCiAgICB0aGlzLmJsb2NrID0gbmV3IFJ1bGUoJ2lzSW50JywgJ+aYr+WQpuWwgeWPt2Jsb2Nr5b+F6aG75Li65pW05pWwJykK</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIH0gCg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="5" type="4">
         <text>else {
       set(condition, 'hero_id', {
         [Op.or]: [30001019, 30001020, 30001021]
       })
     }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgY29uc3Qgc291cmNlSWQgPSBpdGVtLnNvdXJjZQogICAgICBsZXQgcmVzdWx0ID0gYXdhaXQgcmVkaXMuaGdldCgnZmVuZ3NoZW46Z2FtZTpzb3VyY2UnLCBzb3VyY2VJZCkKICAgICAgaWYgKCFyZXN1bHQpIHsKICAgICAgICByZXN1bHQgPSBhd2FpdCBnYW1lRGFvLmdldE9uZVNvdXJjZShzb3VyY2VJZCkKICAgICAgfQogICAgICBpdGVtLnNvdXJjZSA9IHJlc3VsdAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgY29uc3QgcHJvcElkID0gaXRlbS5wcm9wX2lkCiAgICAgIHJlc3VsdCA9IGF3YWl0IHJlZGlzLmhnZXQoJ2ZlbmdzaGVuOmdhbWU6aXRlbScsIHByb3BJZCkKICAgICAgaWYgKCFyZXN1bHQpIHsKICAgICAgICByZXN1bHQgPSBhd2FpdCBnYW1lRGFvLmdldE9uZUl0ZW0ocHJvcElkKQogICAgICB9CiAgICAgIGl0ZW0ucHJvcF9pZCA9IHJlc3VsdAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IHsgR2FtZURhbyB9IGZyb20gJy4vZ2FtZScKCmNvbnN0IGdhbWVEYW8gPSBuZXcgR2FtZURhbygpCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlcm9zID0gYXdhaXQgZ2FtZURhby5nZXRBbGxIZXJvcygpCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICBzZXQoY29uZGl0aW9uLCAncHJvcF9pZCcsIHsKICAgICAgICBbT3Aub3JdOiBbMzAwMDEwMTksIDMwMDAxMDIwLCAzMDAwMTAyMV0KICAgICAgfSkKICAgIH0=</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
