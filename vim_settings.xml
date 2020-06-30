@@ -50,7 +50,7 @@
       <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1593501259071">
         <mark key="[" line="38" column="20" />
       </file>
-      <file name="/fragment.js" timestamp="1593506224214">
+      <file name="/fragment.js" timestamp="1593507883095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/audit-email.js" timestamp="1593502748652" />
@@ -69,6 +69,7 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1593413963090">
         <mark key="[" line="19" column="44" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1593506498804" />
       <file name="/JavaScript Console" timestamp="1593499085624">
         <mark key="[" line="0" column="0" />
       </file>
@@ -95,11 +96,6 @@
         <mark key="]" line="37" column="54" />
         <mark key="^" line="58" column="20" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1593324272922">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1593504444227">
         <mark key="[" line="119" column="28" />
