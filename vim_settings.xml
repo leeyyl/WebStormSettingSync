@@ -47,8 +47,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1593498366027">
+        <mark key="[" line="38" column="20" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1593401202913">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/validators/server.js" timestamp="1593413772231">
+        <mark key="[" line="5" column="51" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/config/secure.js" timestamp="1593314952065">
+        <mark key="[" line="28" column="10" />
+      </file>
       <file name="/fragment.js" timestamp="1593333835410">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/validators/activation.js" timestamp="1593414160658">
+        <mark key="[" line="5" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/validators/tool.js" timestamp="1593400312705">
+        <mark key="[" line="61" column="97" />
+        <mark key="]" line="58" column="0" />
+        <mark key="^" line="57" column="20" />
+        <mark key="." line="58" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/api/v1/game.js" timestamp="1593318609615">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/recharge.js" timestamp="1593413847578">
         <mark key="[" line="13" column="64" />
@@ -67,61 +93,31 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/statistics.js" timestamp="1593413577412">
         <mark key="[" line="12" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/activation.js" timestamp="1592990748116">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1593413963090">
-        <mark key="[" line="19" column="44" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1593397780958">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/block-role.js" timestamp="1592990738487">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1593401202913">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/server.js" timestamp="1593413772231">
-        <mark key="[" line="5" column="51" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/config/secure.js" timestamp="1593314952065">
-        <mark key="[" line="28" column="10" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/activation.js" timestamp="1593414160658">
-        <mark key="[" line="5" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/tool.js" timestamp="1593400312705">
-        <mark key="[" line="61" column="97" />
-        <mark key="]" line="58" column="0" />
-        <mark key="^" line="57" column="20" />
-        <mark key="." line="58" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/game.js" timestamp="1593318609615">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/statistics.js" timestamp="1593324272922">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1593413963090">
+        <mark key="[" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/recharge.js" timestamp="1592990765498">
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
         <mark key="." line="92" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/game.js" timestamp="1593324335985" />
+      <file name="/JavaScript Console" timestamp="1593397780958">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1593498327631">
+        <mark key="[" line="11" column="6" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1593400524754">
         <mark key="[" line="385" column="5" />
         <mark key="]" line="384" column="0" />
         <mark key="." line="384" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/minute.js" timestamp="1593498429215" />
     </filemarks>
     <jumps>
       <jump line="35" column="14" filename="$USER_HOME$/Desktop/fengshen/app.js" />
