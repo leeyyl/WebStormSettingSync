@@ -47,10 +47,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1593498366027">
+      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1593501259071">
         <mark key="[" line="38" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1593401202913">
+      <file name="/Dummy.txt" timestamp="1593501303678">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/server.js" timestamp="1593413772231">
@@ -59,9 +59,10 @@
       <file name="$USER_HOME$/Desktop/bff/app/config/secure.js" timestamp="1593314952065">
         <mark key="[" line="28" column="10" />
       </file>
-      <file name="/fragment.js" timestamp="1593333835410">
+      <file name="/fragment.js" timestamp="1593501250264">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1593501274824" />
       <file name="$USER_HOME$/Desktop/bff/app/validators/activation.js" timestamp="1593414160658">
         <mark key="[" line="5" column="50" />
       </file>
@@ -78,11 +79,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/recharge.js" timestamp="1593413847578">
         <mark key="[" line="13" column="64" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/api/v1/statistics.js" timestamp="1592995116677">
-        <mark key="[" line="159" column="49" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/role.js" timestamp="1593325977149">
         <mark key="[" line="142" column="0" />
@@ -115,7 +111,7 @@
         <mark key="]" line="384" column="0" />
         <mark key="." line="384" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/minute.js" timestamp="1593498429215" />
+      <file name="$USER_HOME$/Desktop/bff/app/extensions/schedule/minute.js" timestamp="1593501293744" />
     </filemarks>
     <jumps>
       <jump line="35" column="14" filename="$USER_HOME$/Desktop/fengshen/app.js" />
