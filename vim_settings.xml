@@ -62,9 +62,6 @@
         <mark key="^" line="184" column="13" />
         <mark key="." line="183" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/node_modules/lin-mizar/lin/middleware/error.js" timestamp="1593571472394">
-        <mark key="[" line="3" column="13" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/user.js" timestamp="1593584635635">
         <mark key="[" line="50" column="16" />
         <mark key="]" line="50" column="0" />
@@ -75,16 +72,16 @@
         <mark key="[" line="104" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/middleware/jwt.js" timestamp="1593585219758" />
-      <file name="/JavaScript Console" timestamp="1593574272476">
+      <file name="/JavaScript Console" timestamp="1593585731227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/user.js" timestamp="1593584742497">
         <mark key="[" line="17" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/config/code-message.js" timestamp="1593584087290">
-        <mark key="[" line="80" column="24" />
-        <mark key="]" line="80" column="24" />
-        <mark key="." line="80" column="24" />
+      <file name="$USER_HOME$/Desktop/bff/app/config/code-message.js" timestamp="1593585424868">
+        <mark key="[" line="78" column="14" />
+        <mark key="]" line="83" column="24" />
+        <mark key="." line="83" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/user.js" timestamp="1593577949054">
         <mark key="[" line="102" column="17" />
@@ -116,16 +113,21 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1593584470043">
-        <mark key="[" line="335" column="26" />
-        <mark key="]" line="337" column="0" />
-        <mark key="." line="337" column="0" />
+      <file name="$USER_HOME$/Desktop/bff/app/dao/channel.js" timestamp="1593585673034">
+        <mark key="[" line="97" column="27" />
+        <mark key="]" line="99" column="0" />
+        <mark key="." line="99" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/tool.js" timestamp="1593577860361">
         <mark key="[" line="365" column="21" />
         <mark key="]" line="180" column="0" />
         <mark key="." line="180" column="0" />
         <mark key="^" line="180" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/dao/server.js" timestamp="1593585485305">
+        <mark key="[" line="27" column="27" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -163,7 +165,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1zZzogJ+WIhue7hOS4jeWtmOWcqO+8jOaXoOazleaWsOW7uueUqOaItycsCg==</text>
+        <text encoding="base64">ICAgICAgICBtc2c6ICflubPlj7BBbmRyb2lk5ZKMaU9T5LiN6IO95Yig6ZmkJywKICAgICAgICBlcnJvckNvZGU6IDgwMDEzCg==</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -172,31 +174,31 @@
         <text encoding="base64">ICAgICAgYW5ub3VuY2VtZW50ID0gYXdhaXQgQW5ub3VuY2VtZW50TW9kZWwuZmluZEJ5UGsoYW5ub3VuY2VtZW50SWQpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1zZzogJ+WIhue7hOS4jeWtmOWcqO+8jOaXoOazleaWsOW7uueUqOaItycsCg==</text>
+        <text encoding="base64">ICAgICAgICBtc2c6ICflubPlj7BBbmRyb2lk5ZKMaU9T5LiN6IO95Yig6ZmkJywKICAgICAgICBlcnJvckNvZGU6IDgwMDEzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1zZzogJ3Jvb3TliIbnu4TkuI3lj6/mt7vliqDnlKjmiLcnLAo=</text>
+        <text encoding="base64">ICAgICAgICBtc2c6ICfmuKDpgZPmgJ3nkp7kuI3og73liKDpmaQnLAogICAgICAgIGVycm9yQ29kZTogODAwMTQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtc2c6ICflhazlkYrkuI3lrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMjAK</text>
+        <text encoding="base64">ICAgICAgICBtc2c6ICflubPlj7Dlt7LlrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMTUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtc2c6ICflhazlkYrkuI3lrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMjAK</text>
+        <text encoding="base64">ICAgICAgICBtc2c6ICfmuKDpgZPlt7LlrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMTYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtc2c6ICfpgq7ku7bkuI3lrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMTkK</text>
+        <text encoding="base64">ICAgICAgICBtc2c6ICflrZDmuKDpgZPlt7LlrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMTcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtc2c6ICfpgq7ku7bkuI3lrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMTkK</text>
+        <text encoding="base64">ICAgICAgICBtc2c6ICfmnI3liqHlmajlt7LlrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMTgK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtc2c6ICflhYXlgLznlLPor7fkuI3lrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMjIK</text>
+        <text encoding="base64">ICAgICAgICAgIG1zZzogJ+WIhue7hOS4jeWtmOWcqO+8jOaXoOazleaWsOW7uueUqOaItycsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtc2c6ICflhYXlgLzml6Xlv5forrDlvZXkuI3lrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMjEK</text>
+        <text encoding="base64">ICAgICAgICAgIG1zZzogJ3Jvb3TliIbnu4TkuI3lj6/mt7vliqDnlKjmiLcnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtc2c6ICflrZDmuKDpgZPkuI3lrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMTIK</text>
+        <text encoding="base64">ICAgICAgICBtc2c6ICflhazlkYrkuI3lrZjlnKgnLAogICAgICAgIGVycm9yQ29kZTogODAwMjAK</text>
       </register>
       <register name=":" type="4">
         <text>action Back</text>
