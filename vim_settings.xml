@@ -47,13 +47,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1593512380819">
+      <file name="$USER_HOME$/Desktop/bff/app/libs/http.js" timestamp="1593572024062">
         <mark key="[" line="64" column="8" />
         <mark key="]" line="66" column="0" />
         <mark key="^" line="66" column="38" />
         <mark key="." line="66" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1593510866707">
+      <file name="/fragment.js" timestamp="1593571710019">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/audit-email.js" timestamp="1593502748652" />
@@ -64,15 +64,15 @@
       <file name="$USER_HOME$/Desktop/bff/app/validators/statistics.js" timestamp="1593510308305">
         <mark key="[" line="13" column="53" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/channel.js" timestamp="1593413963090">
-        <mark key="[" line="19" column="44" />
+      <file name="$USER_HOME$/Desktop/bff/node_modules/lin-mizar/lin/exception/index.js" timestamp="1593571366787">
+        <mark key="[" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/node_modules/lin-mizar/lin/middleware/error.js" timestamp="1593571472394">
+        <mark key="[" line="3" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1593506498804" />
-      <file name="/JavaScript Console" timestamp="1593570150268">
+      <file name="/JavaScript Console" timestamp="1593571660459">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1593502406696">
-        <mark key="[" line="11" column="6" />
       </file>
       <file name="/Dummy.txt" timestamp="1593513747319">
         <mark key="[" line="0" column="0" />
@@ -82,9 +82,8 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/app.js" timestamp="1593501274824" />
-      <file name="$USER_HOME$/Desktop/bff/app/validators/activation.js" timestamp="1593414160658">
-        <mark key="[" line="5" column="50" />
+      <file name="$USER_HOME$/Desktop/bff/node_modules/lin-mizar/lin/exception/http-exception.js" timestamp="1593571658538">
+        <mark key="[" line="9" column="63" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/tool.js" timestamp="1593510156506">
         <mark key="[" line="63" column="51" />
@@ -96,6 +95,9 @@
         <mark key="[" line="2" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/home.js" timestamp="1593514697576" />
+      <file name="$USER_HOME$/Desktop/bff/index.js" timestamp="1593571211629">
+        <mark key="[" line="4" column="13" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1593513515482">
         <mark key="[" line="153" column="44" />
         <mark key="]" line="153" column="0" />
