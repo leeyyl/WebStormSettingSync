@@ -57,6 +57,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/audit-email.js" timestamp="1593502748652" />
+      <file name="$USER_HOME$/Desktop/bff/package-lock.json" timestamp="1593570394775" />
       <file name="$USER_HOME$/Desktop/bff/app/validators/recharge.js" timestamp="1593510085672">
         <mark key="[" line="5" column="61" />
       </file>
@@ -67,7 +68,7 @@
         <mark key="[" line="19" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1593506498804" />
-      <file name="/JavaScript Console" timestamp="1593509436745">
+      <file name="/JavaScript Console" timestamp="1593570150268">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1593502406696">
@@ -75,9 +76,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1593513747319">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/server.js" timestamp="1593413772231">
-        <mark key="[" line="5" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/login-announcement.js" timestamp="1593502833018">
         <mark key="[" line="56" column="20" />
