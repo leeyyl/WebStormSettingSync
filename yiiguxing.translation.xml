@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="运营后台" />
+      <item value="运营管理系统" />
+      <item value="运营" />
       <item value="回应" />
       <item value="追加" />
       <item value="论坛" />
@@ -48,9 +51,6 @@
       <item value="定时任务" />
       <item value="创角" />
       <item value="创角留存" />
-      <item value="留存率" />
-      <item value="留存" />
-      <item value="数据报表" />
     </histories>
     <option name="languageScores">
       <map>
