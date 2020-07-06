@@ -86,6 +86,9 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1594019420057" />
+      <file name="$USER_HOME$/Desktop/bff/app/lib/http.js" timestamp="1594021339346">
+        <mark key="[" line="7" column="35" />
+      </file>
       <file name="$USER_HOME$/Desktop/bff/app/models/user.js" timestamp="1593678421919">
         <mark key="[" line="1" column="36" />
         <mark key="]" line="1" column="36" />
@@ -101,9 +104,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/feedback.js" timestamp="1593744673449">
         <mark key="[" line="125" column="14" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/announcement.js" timestamp="1593678418237">
-        <mark key="[" line="11" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validators/log.js" timestamp="1593678436476">
         <mark key="[" line="2" column="34" />
