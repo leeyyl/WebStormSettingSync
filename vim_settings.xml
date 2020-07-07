@@ -94,11 +94,6 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/bff/app/validators/admin.js" timestamp="1593678430899">
-        <mark key="[" line="1" column="34" />
-        <mark key="]" line="1" column="34" />
-        <mark key="." line="1" column="34" />
-      </file>
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/feedback.js" timestamp="1594023586803">
         <mark key="[" line="52" column="1" />
       </file>
@@ -113,6 +108,11 @@
         <mark key="]" line="12" column="100" />
         <mark key="." line="12" column="100" />
         <mark key="^" line="189" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/bff/app/extension/schedule/statistics.js" timestamp="1594112138355">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="20" column="37" />
+        <mark key="." line="20" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/model/email.js" timestamp="1594019076997">
         <mark key="[" line="15" column="6" />
@@ -155,11 +155,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB7CiAgICAgIHJvd3MsCiAgICAgIHRvdGFsOiBjb3VudAogICAgfQo=</text>
+      <register name="*" type="4">
+        <text>A</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text>A</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBjb25zdCBjb25kaXRpb24gPSB7fQogIHYuZ2V0KCdxdWVyeS5jaGFubmVsJykgJiYgc2V0KGNvbmRpdGlvbiwgJ2NoYW5uZWwnLCB2LmdldCgncXVlcnkuY2hhbm5lbCcpKQogIHYuZ2V0KCdxdWVyeS5zdWJfY2hhbm5lbCcpICYmIHNldChjb25kaXRpb24sICdzdWJfY2hhbm5lbCcsIHYuZ2V0KCdxdWVyeS5zdWJfY2hhbm5lbCcpKQogIHYuZ2V0KCdxdWVyeS5zZXJ2ZXInKSAmJiBzZXQoY29uZGl0aW9uLCAnc2VydmVyJywgdi5nZXQoJ3F1ZXJ5LnNlcnZlcicpKQo=</text>
