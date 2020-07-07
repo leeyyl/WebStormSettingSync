@@ -47,6 +47,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/bff/app/config/secure.js" timestamp="1594087287246" />
       <file name="/fragment.js" timestamp="1594019749522">
         <mark key="[" line="0" column="0" />
       </file>
@@ -81,17 +82,12 @@
       <file name="$USER_HOME$/Desktop/bff/app/api/v1/recharge.js" timestamp="1594020309323">
         <mark key="[" line="28" column="69" />
       </file>
-      <file name="/JavaScript Console" timestamp="1594019802645">
+      <file name="/JavaScript Console" timestamp="1594087257348">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/dao/tool.js" timestamp="1594019420057" />
       <file name="$USER_HOME$/Desktop/bff/app/lib/http.js" timestamp="1594021339346">
         <mark key="[" line="7" column="35" />
-      </file>
-      <file name="$USER_HOME$/Desktop/bff/app/models/user.js" timestamp="1593678421919">
-        <mark key="[" line="1" column="36" />
-        <mark key="]" line="1" column="36" />
-        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/bff/app/validator/feedback.js" timestamp="1594027742078">
         <mark key="[" line="0" column="17" />
