@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="福利" />
       <item value="operator" />
       <item value="管理" />
       <item value="管理台" />
@@ -25,7 +26,6 @@
       <item value="审核" />
       <item value="申请人" />
       <item value="recharge" />
-      <item value="福利" />
       <item value="减法" />
       <item value="reentrant" />
       <item value="re" />
@@ -55,7 +55,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
