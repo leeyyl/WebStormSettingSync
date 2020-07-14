@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="付费排行" />
       <item value="活跃" />
       <item value="金额" />
       <item value="recharge" />
@@ -50,7 +51,6 @@
       <item value="汇总" />
       <item value="返回值" />
       <item value="结果集" />
-      <item value="活跃区" />
     </histories>
     <option name="languageScores">
       <map>
