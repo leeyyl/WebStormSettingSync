@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="库存" />
+      <item value="记录" />
       <item value="建角" />
       <item value="耗时" />
       <item value="过滤" />
@@ -49,8 +51,6 @@
       <item value="回复者" />
       <item value="战斗" />
       <item value="衰退" />
-      <item value="前天" />
-      <item value="商品" />
     </histories>
     <option name="languageScores">
       <map>
